@@ -1,0 +1,22 @@
+{
+  "fr": {
+    "lang": "fr",
+    "output_file": "E:\\appMupsa\\output\\pwa\\pwa_content.fr.final.v3.json",
+    "diseases_count": 30,
+    "procedures_count": 13,
+    "symptom_maps_count": 9,
+    "total_images_diseases": 88,
+    "total_images_procedures": 20,
+    "total_images_symptom_maps": 5
+  },
+  "ar": {
+    "lang": "ar",
+    "output_file": "E:\\appMupsa\\output\\pwa\\pwa_content.ar.final.v3.json",
+    "diseases_count": 51,
+    "procedures_count": 13,
+    "symptom_maps_count": 8,
+    "total_images_diseases": 287,
+    "total_images_procedures": 8,
+    "total_images_symptom_maps": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "fr": {
+    "lang": "fr",
+    "output": "E:\\appMupsa\\output\\pwa\\pwa_content.fr.final.json",
+    "diseases": 26,
+    "actions": 0,
+    "procedures": 11,
+    "symptom_maps": 9,
+    "total_disease_images": 70
+  },
+  "ar": {
+    "lang": "ar",
+    "output": "E:\\appMupsa\\output\\pwa\\pwa_content.ar.final.json",
+    "diseases": 19,
+    "actions": 0,
+    "procedures": 12,
+    "symptom_maps": 8,
+    "total_disease_images": 162
+  }
+}

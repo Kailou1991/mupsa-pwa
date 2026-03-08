@@ -1,0 +1,4063 @@
+{
+  "lang": "fr",
+  "meta": {
+    "diseases_count": 26,
+    "actions_count": 0,
+    "procedures_count": 11,
+    "symptom_maps_count": 9
+  },
+  "diseases": [
+    {
+      "id": "anaplasmose",
+      "lang": "fr",
+      "title": "Anaplasmose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 106
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Généralités: L’anaplasmose est une maladie infectieuse bactérienne non contagieuse",
+        "Bactéries: De la famille des Anaplasmataceae, les bactéries Anaplasma marginale et",
+        "Anaplasma centrale sont toutes deux responsables de l’anaplasmose",
+        "Période d’incubation: De 25 à 50 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Anorexie, abattement",
+        "Douleurs articulaires (201, 202)",
+        "Fièvre élevée",
+        "Baisse de la lactation",
+        "Indirecte: Par l’intermédiaire d’un vecteur, les tiques des genres Rhipicephalus (Boophilus)",
+        "et Amblyomma (ex: R. Boophilus microplus,",
+        "Amblyomma variegatum, 199)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (Vacutainer 5ml), ou sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0107_img_01",
+        "mupsa-francais_p0107_img_02",
+        "mupsa-francais_p0107_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-lanaplasmose-est-une-actions-p107"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0107_img_01.webp",
+        "output/images/mupsa-francais_p0107_img_02.webp",
+        "output/images/mupsa-francais_p0107_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0107_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0107_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0107_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0107_img_01",
+          "file": "output/images/mupsa-francais_p0107_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0107_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 107,
+          "width": 958,
+          "height": 458,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0107_img_02",
+          "file": "output/images/mupsa-francais_p0107_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0107_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 107,
+          "width": 439,
+          "height": 431,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0107_img_03",
+          "file": "output/images/mupsa-francais_p0107_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0107_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 107,
+          "width": 497,
+          "height": 487,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "theileriose",
+      "lang": "fr",
+      "title": "Théilériose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 108
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 130
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Généralités: La theilériose est une maladie non contagieuse des bovins causée par les pro",
+        "tozoaires parasites Babesia bovis et Babesia bigemina",
+        "Parasites: De la famille des Babesiidae, Babesia bovis et Babesia bigemina envahissent les",
+        "érythrocytes de leur hôte",
+        "Période d’incubation: De 5 à 10 jours",
+        "Généralités: La theilériose est une maladie non contagieuse des bovins causée par le pro",
+        "tozoaire parasite Theileria parva",
+        "Parasite: De la famille des Theileriidae, Theileria parva envahit les érythrocytes de son hôte",
+        "Période d’incubation: De 10 à 15 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Hémoglobinurie, hématurie (205, 206)",
+        "Diarrhée en corde",
+        "Abattement",
+        "Fièvre élevée",
+        "Troubles nerveux, pédalage",
+        "Ictère",
+        "Avortements",
+        "Indirecte: Par l’intermédiaire d’un vecteur, les tiques des genres R. Boophilus et Ixodes",
+        "(ex: R. Boophilus microplus,",
+        "Ixodes scapilaris, 204)",
+        "Épistaxis (saignement de nez)",
+        "Hypertrophie ganglionnaire (adénite généralisée)",
+        "Larmoiement, yeux vitreux",
+        "Muqueuses pâles",
+        "Dyspnée",
+        "Diarrhée",
+        "Cachexie",
+        "Indirecte: Par l’intermédiaire d’un vecteur, les tiques du genre Rhipicephalus (ex: Amblyom",
+        "ma Sanguineus, 268)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (Vacutainer 5ml), ou sérum",
+        "Animal vivant: Nœud lymphatique, sang sur anticoagulant (Vacutainer 5ml), ou sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0109_img_01",
+        "mupsa-francais_p0109_img_02",
+        "mupsa-francais_p0109_img_03",
+        "mupsa-francais_p0131_img_01",
+        "mupsa-francais_p0131_img_02",
+        "mupsa-francais_p0131_img_03",
+        "mupsa-francais_p0131_img_04"
+      ],
+      "action_ids": [
+        "yy-generalites-la-theileriose-est-une-actions-p109",
+        "yy-generalites-la-theileriose-est-une-actions-p131"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0109_img_01.webp",
+        "output/images/mupsa-francais_p0109_img_02.webp",
+        "output/images/mupsa-francais_p0109_img_03.webp",
+        "output/images/mupsa-francais_p0131_img_01.webp",
+        "output/images/mupsa-francais_p0131_img_02.webp",
+        "output/images/mupsa-francais_p0131_img_03.webp",
+        "output/images/mupsa-francais_p0131_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0109_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0109_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0109_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0131_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0131_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0131_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0131_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0109_img_01",
+          "file": "output/images/mupsa-francais_p0109_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0109_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 109,
+          "width": 304,
+          "height": 299,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0109_img_02",
+          "file": "output/images/mupsa-francais_p0109_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0109_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 109,
+          "width": 318,
+          "height": 312,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0109_img_03",
+          "file": "output/images/mupsa-francais_p0109_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0109_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 109,
+          "width": 310,
+          "height": 304,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0131_img_01",
+          "file": "output/images/mupsa-francais_p0131_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0131_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 131,
+          "width": 272,
+          "height": 267,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0131_img_02",
+          "file": "output/images/mupsa-francais_p0131_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0131_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 131,
+          "width": 398,
+          "height": 389,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0131_img_03",
+          "file": "output/images/mupsa-francais_p0131_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0131_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 131,
+          "width": 199,
+          "height": 194,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0131_img_04",
+          "file": "output/images/mupsa-francais_p0131_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0131_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 131,
+          "width": 199,
+          "height": 194,
+          "bbox": null
+        }
+      ],
+      "image_count": 7,
+      "actions": []
+    },
+    {
+      "id": "clavelee-et-variole-caprine",
+      "lang": "fr",
+      "title": "Clavelée et variole caprine",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 110
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Ovins",
+        "Caprins",
+        "Généralités: La clavelée, ou variole ovine, et la variole caprine sont des maladies virales des",
+        "ovins et des caprins hautement contagieuses",
+        "Virus: Du genre Capripoxivirus, de la famille des Poxviridae, il est particulièrement résistant",
+        "dans le milieu extérieur",
+        "Période d’incubation: De 5 à 15 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Macules puis papules de 0,5 à 1,5 cm de diamètre, évoluant en nodules qui sèchent (croûtes)",
+        "et laissent des cicatrices. Ils sont généralement localisés sur les lèvres, la langue, les yeux,",
+        "les oreilles, les mamelles et les trayons (209, 210, 211, 212)",
+        "Hypertrophie des ganglions, particulièrement le ganglion préscapulaire",
+        "Écoulements nasaux, oculaires et buccaux",
+        "Fièvre élevée",
+        "Dyspnée",
+        "Abattement",
+        "Avortements",
+        "Directe: Par contact avec un animal malade et/ou absorption de toute sécrétion et/ou pro",
+        "duction animale contaminée",
+        "Indirecte: Par voie mécanique (litière, nourriture, vêtements, matériel...)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Biopsie des papules cuta",
+        "nées, sang sur anticoagulant (Vacutainer",
+        "5ml), ou sérum",
+        "Après autopsie: Sérum",
+        "Désinfecter les plaies"
+      ],
+      "general_notes": [],
+      "image_refs": [],
+      "action_ids": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0,
+      "actions": []
+    },
+    {
+      "id": "cowdriose",
+      "lang": "fr",
+      "title": "Cowdriose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 112
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Généralités: La cowdriose est une maladie infectieuse bactérienne non contagieuse",
+        "Bactérie: De la famille des Rickettsiaceae, la bactérie Ehrlichia ruminantium est transmise",
+        "par une tique",
+        "Période d’incubation: De 10 à 20 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Hyperthermie soudaine et élevée",
+        "Dyspnée",
+        "Troubles nerveux: tournis, pédalage,",
+        "convulsions, grincement des dents, atti",
+        "tude de pousser au mur, paralysie du",
+        "train postérieur, opisthotonos",
+        "Fièvre élevée",
+        "Abattement",
+        "Avortements",
+        "Diarrhée (surtout chez les bovins)",
+        "Mort subite en forme suraiguë",
+        "Après autopsie",
+        "Indirecte: Par l’intermédiaire d’un vecteur, les tiques du genre Amblyomma (ex: Amblyom",
+        "ma variegatum, 213, 214)",
+        "Hydropéricarde et hydrothorax (218, 219)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang prélevé sur anticoagu",
+        "lant (Vacutainer 5ml), ou sérum",
+        "Après autopsie: Biopsie du cerveau"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0113_img_01",
+        "mupsa-francais_p0113_img_02"
+      ],
+      "action_ids": [
+        "yy-generalites-la-cowdriose-est-une-actions-p113"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0113_img_01.webp",
+        "output/images/mupsa-francais_p0113_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0113_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0113_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0113_img_01",
+          "file": "output/images/mupsa-francais_p0113_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0113_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 113,
+          "width": 406,
+          "height": 259,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0113_img_02",
+          "file": "output/images/mupsa-francais_p0113_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0113_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 113,
+          "width": 338,
+          "height": 215,
+          "bbox": null
+        }
+      ],
+      "image_count": 2,
+      "actions": []
+    },
+    {
+      "id": "dermatose-nodulaire-contagieuse",
+      "lang": "fr",
+      "title": "Dermatose nodulaire contagieuse",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 114
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Généralités: La dermatose nodulaire contagieuse est une maladie virale des bovins haute",
+        "ment contagieuse",
+        "Virus: Du genre Capripoxivirus, de la famille des Poxviridae, il est particulièrement résistant",
+        "dans le milieu extérieur",
+        "Période d’incubation: De 10 à 30 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Nodules cutanés de 0,5 à 5 cm de diamètre qui se nécrosent et se surinfectent (220, 221,",
+        "222, 223, 224)",
+        "Écoulement oculaire et nasal purulent",
+        "Hypersalivation",
+        "Fièvre persistante",
+        "Anorexie, abattement",
+        "Œdèmes des membres",
+        "Ganglions lymphatiques gonflés",
+        "Baisse de la lactation",
+        "Directe: Par contact avec un animal malade et/ou absorption de toute sécrétion et/ou pro",
+        "duction animale contaminée",
+        "Indirecte: Par l’intermédiaire d’un vecteur (mouche piqueuse, moustique, tique...)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Biopsie des nodules cutanés, liquide de nœud lymphatique, sang sur anticoa",
+        "gulant (Vacutainer 5ml), ou sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0115_img_01",
+        "mupsa-francais_p0115_img_02",
+        "mupsa-francais_p0115_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-dermatose-nodulaire-contagieuse-est-une-actions-p115"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0115_img_01.webp",
+        "output/images/mupsa-francais_p0115_img_02.webp",
+        "output/images/mupsa-francais_p0115_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0115_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0115_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0115_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0115_img_01",
+          "file": "output/images/mupsa-francais_p0115_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0115_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 115,
+          "width": 354,
+          "height": 348,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0115_img_02",
+          "file": "output/images/mupsa-francais_p0115_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0115_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 115,
+          "width": 301,
+          "height": 295,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0115_img_03",
+          "file": "output/images/mupsa-francais_p0115_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0115_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 115,
+          "width": 358,
+          "height": 350,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "fievre-aphteuse",
+      "lang": "fr",
+      "title": "Fièvre aphteuse",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 116
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Généralités: La fièvre aphteuse est une maladie virale grave et hautement contagieuse",
+        "Virus: Du genre Aphthovirus, de la famille des Picornaviridae, il est résistant dans le milieu",
+        "extérieur",
+        "Période d’incubation: De 2 à 7 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Écoulements filants de bave et mauvaise",
+        "haleine",
+        "Lésions étendues dans la bouche, spéciale",
+        "ment sur la langue et le palais",
+        "Boiterie",
+        "Fièvre",
+        "Inappétence, anorexie, abattement",
+        "Lésions entre les onglons, au dessus des",
+        "sabots et au niveau des mamelles (227,",
+        "Vésicules sur les trayons (chute soudaine",
+        "de la production de lait)",
+        "Pelage long et hérissé (parfois)",
+        "Avortements",
+        "Infertilité",
+        "Chez les veaux: polypnée et mort",
+        "Directe: Par contact avec un animal malade et/ou absorption de toute sécrétion et/ou pro",
+        "duction animale contaminée",
+        "Indirecte: Par voie mécanique (litière, nourriture, vêtements, matériel...)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant malade depuis moins de",
+        "jours: Épithélium et lymphe dans les vé",
+        "sicules + 1 cm2/1g d’épithélium provenant",
+        "de vésicules (langue, muqueuses, espaces",
+        "interdigités) et/ou prélèvements oro-pha",
+        "ryngés",
+        "Animal vivant malade depuis plus de",
+        "jours: Sérum",
+        "Les animaux morts doivent être enfouis profondément et détruits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0117_img_01",
+        "mupsa-francais_p0117_img_02"
+      ],
+      "action_ids": [
+        "yy-generalites-la-fievre-aphteuse-est-une-actions-p117"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0117_img_01.webp",
+        "output/images/mupsa-francais_p0117_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0117_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0117_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0117_img_01",
+          "file": "output/images/mupsa-francais_p0117_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0117_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 117,
+          "width": 295,
+          "height": 188,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0117_img_02",
+          "file": "output/images/mupsa-francais_p0117_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0117_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 117,
+          "width": 337,
+          "height": 215,
+          "bbox": null
+        }
+      ],
+      "image_count": 2,
+      "actions": []
+    },
+    {
+      "id": "fievre-catarrhale-ovine",
+      "lang": "fr",
+      "title": "Fièvre catarrhale ovine",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 118
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Généralités: La fièvre catarrhale ovine, aussi appelée maladie de la langue bleue, est une",
+        "maladie virale non contagieuse",
+        "Virus: Du genre Orbivirus, de la famille des Reoviridae, il n’est pas résistant dans le milieu",
+        "extérieur",
+        "Période d’incubation: De 5 à 12 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Hémorragies et ulcérations des tissus de la sphère oro-nasale",
+        "Hypersalivation, écoulement nasal et gonflement des lèvres",
+        "Boiterie",
+        "Fièvre",
+        "Inappétence, anorexie",
+        "Diarrhée, vomissement",
+        "Langue bleue (rare)",
+        "Pneumonie",
+        "Avortements éventuels",
+        "Indirecte: Par l’intermédiaire d’un vecteur (petits insectes piqueurs du genre Culicoides)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (Va",
+        "cutainer 5ml)",
+        "Après autopsie: Sérum, rate"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0119_img_01",
+        "mupsa-francais_p0119_img_02",
+        "mupsa-francais_p0119_img_03",
+        "mupsa-francais_p0119_img_04"
+      ],
+      "action_ids": [
+        "yy-generalites-la-fievre-catarrhale-ovine-aussi-appelee-actions-p119"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0119_img_01.webp",
+        "output/images/mupsa-francais_p0119_img_02.webp",
+        "output/images/mupsa-francais_p0119_img_03.webp",
+        "output/images/mupsa-francais_p0119_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0119_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0119_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0119_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0119_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0119_img_01",
+          "file": "output/images/mupsa-francais_p0119_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0119_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 119,
+          "width": 212,
+          "height": 208,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0119_img_02",
+          "file": "output/images/mupsa-francais_p0119_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0119_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 119,
+          "width": 211,
+          "height": 206,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0119_img_03",
+          "file": "output/images/mupsa-francais_p0119_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0119_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 119,
+          "width": 476,
+          "height": 468,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0119_img_04",
+          "file": "output/images/mupsa-francais_p0119_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0119_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 119,
+          "width": 205,
+          "height": 201,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "peste-des-petits-ruminants",
+      "lang": "fr",
+      "title": "Peste des petits ruminants",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 124
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Ovins",
+        "Caprins",
+        "Généralités: La peste des petits ruminants est une maladie virale des ovins et des caprins",
+        "hautement contagieuse",
+        "Virus: Du genre Morbilivirus, de la famille des Paramyxoviridae, il est peu résistant dans le",
+        "milieu extérieur",
+        "Période d’incubation: De 3 à 6 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Fièvre brutale",
+        "Abattement sévère",
+        "Écoulements oculaires, nasaux",
+        "et buccaux, d’abord clairs puis pu",
+        "rulents",
+        "Diarrhée sévère parfois mêlée de sang",
+        "Difficultés respiratoires avec toux",
+        "Plaies dans la bouche, l’animal ne",
+        "mange plus",
+        "Naseaux craquelés et secs",
+        "Avortements",
+        "Mort subite (en 5-10 jours)",
+        "Après autopsie",
+        "Directe: Par contact avec un animal malade et/ou absorption de toute sécrétion et/ou pro",
+        "duction animale contaminée",
+        "Indirecte: Par voie mécanique (litière, nourriture, vêtements, matériel...)",
+        "Hémorragies pulmonaires",
+        "Colon strié de rouge"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (Va",
+        "cutainer 5ml), écouvillonnages oculaires,",
+        "buccaux et/ou nasaux, ou sérum",
+        "Après autopsie: Prélèvements sur",
+        "ganglions lymphatiques, poumon, intestin,",
+        "rate",
+        "Les animaux morts et les résidus d’avortements doivent être enfouis profondément et dé",
+        "truits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0125_img_01",
+        "mupsa-francais_p0125_img_02",
+        "mupsa-francais_p0125_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-peste-des-petits-ruminants-est-une-actions-p125"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0125_img_01.webp",
+        "output/images/mupsa-francais_p0125_img_02.webp",
+        "output/images/mupsa-francais_p0125_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0125_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0125_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0125_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0125_img_01",
+          "file": "output/images/mupsa-francais_p0125_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0125_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 125,
+          "width": 476,
+          "height": 304,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0125_img_02",
+          "file": "output/images/mupsa-francais_p0125_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0125_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 125,
+          "width": 477,
+          "height": 303,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0125_img_03",
+          "file": "output/images/mupsa-francais_p0125_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0125_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 125,
+          "width": 476,
+          "height": 303,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "peste-porcine-africaine",
+      "lang": "fr",
+      "title": "Peste porcine africaine",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 126
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Porcins",
+        "Généralités: La peste porcine africaine est une maladie hémorragique hautement conta",
+        "gieuse",
+        "Virus: Du genre Asfivirus, de la famille des Asfarviridae, il reste infectieux durant plusieurs",
+        "mois dans les carcasses",
+        "Période d’incubation: De 5 à 15 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Hémorragie généralisée",
+        "Vomissements et diarrhée avec sang",
+        "Dépression physique",
+        "Cyanose et rougeurs sur l’abdomen et sous",
+        "les oreilles",
+        "Forte fièvre durant 3-4 jours",
+        "Regroupement et hyperthermie",
+        "Ictère généralisé",
+        "Toux, détresse respiratoire",
+        "Conjonctivite",
+        "Perte d’appétit",
+        "Démarche incertaine, chancelante",
+        "Très forte contagion (100%)",
+        "Très fort taux de mortalité",
+        "Après autopsie",
+        "Directe: Par contact avec un animal malade ou par absorption de déchets contaminés",
+        "Indirecte: Par l’intermédiaire d’un vecteur (mouche piqueuse, tique Ornithodoros moubutu",
+        "et/ou par voie mécanique (litière, nourriture, vêtements, matériel...)",
+        "Carcasse hémorragique",
+        "Grosse rate de couleur sombre",
+        "Ganglions lymphatiques hypertrophiés et",
+        "gorgés de sang",
+        "Poumons œdémateux",
+        "Points rouges sur les reins"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (va",
+        "cutainer 5ml), rate, amygdales, ganglions",
+        "ileo-caecaux, reins",
+        "Après autopsie: Sérum",
+        "Les animaux morts doivent être enfouis profondément et détruits à la chaux vive (258 à"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0127_img_01",
+        "mupsa-francais_p0127_img_02",
+        "mupsa-francais_p0127_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-peste-porcine-africaine-est-une-actions-p127"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0127_img_01.webp",
+        "output/images/mupsa-francais_p0127_img_02.webp",
+        "output/images/mupsa-francais_p0127_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0127_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0127_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0127_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0127_img_01",
+          "file": "output/images/mupsa-francais_p0127_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0127_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 127,
+          "width": 216,
+          "height": 186,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0127_img_02",
+          "file": "output/images/mupsa-francais_p0127_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0127_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 127,
+          "width": 219,
+          "height": 189,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0127_img_03",
+          "file": "output/images/mupsa-francais_p0127_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0127_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 127,
+          "width": 250,
+          "height": 216,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "pleuropneumonie-contagieuse-caprine",
+      "lang": "fr",
+      "title": "Pleuropneumonie contagieuse caprine",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 128
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Caprins",
+        "Généralités: La pleuropneumonie contagieuse caprine est une maladie infectieuse bacté",
+        "rienne des caprins hautement contagieuse",
+        "Bactérie: De la famille des Mycoplasmataceae, la bactérie Mycoplasma capricolum n’est",
+        "pas résistante dans le milieu extérieur. D’autres souches de la même famille peuvent être",
+        "incriminées pour cette maladie",
+        "Période d’incubation: De 10 à 30 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Toux violente",
+        "Jetage nasal mucopurulent",
+        "Respiration accélérée et douloureuse",
+        "position en orthopnée",
+        "Fièvre élevée",
+        "Avortements",
+        "En cas d’infection aiguë: morbidité très",
+        "élevée et mortalité jusqu’à 80% (mort",
+        "subite)",
+        "Après autopsie",
+        "Directe: Par absorption des sécrétions nasales ou de gouttelettes dans l’air expiré par l’ani",
+        "mal malade",
+        "Un seul poumon est concerné",
+        "Pleuropneumonie fibrineuse (264, 265)",
+        "avec hépatisation massive et pleurésie ex",
+        "sudative (266, 267)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Liquide pleural (5 ml),",
+        "écouvillons",
+        "broncho-alvéolaires/nasaux,",
+        "ou sérum",
+        "Après autopsie: Liquide pleural (5 ml),",
+        "ganglions régionaux entiers, fragments de",
+        "poumons hépatisés"
+      ],
+      "general_notes": [],
+      "image_refs": [],
+      "action_ids": [
+        "yy-generalites-la-pleuropneumonie-contagieuse-caprine-est-une-actions-p129"
+      ],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0,
+      "actions": []
+    },
+    {
+      "id": "brucellose",
+      "lang": "fr",
+      "title": "Brucellose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 134
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Humains",
+        "Généralités: La brucellose est une maladie infectieuse bactérienne du bétail hautement",
+        "contagieuse",
+        "Bactérie: De la famille des Brucellaceae, les bactéries Brucella abortus (bovins) et Brucella",
+        "melitensis (petits ruminants) sont particulièrement résistantes dans le milieu extérieur",
+        "Période d’incubation: De 1 à 30 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact avec un animal ma",
+        "lade (notamment par les muqueuses, lors",
+        "de l’accouplement) et/ou absorption de",
+        "toute sécrétion et/ou production animale",
+        "contaminée (particulièrement les sécré",
+        "tions génitales, le lait et les avortons)",
+        "Indirecte: Par voie mécanique (litière,",
+        "nourriture, vêtements, matériel...)",
+        "Avortements (273, 274)",
+        "Infertilité",
+        "Placenta épaissi et en rétention (275, 276)",
+        "Articulations gonflées",
+        "Testicules tuméfiés",
+        "Fièvre intermittente autopsie",
+        "Fièvre intermittente",
+        "Douleurs du dos et des articulations",
+        "Faiblesse et abattement",
+        "Avortements"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Liquides d’excrétions utérines, vaginales, ou issus d’avortements, ganglions,",
+        "organes reproducteurs mâle et femelle, lait, ou sérum",
+        "Selon les cas, il est préférable de privilégier l’abattage aux soins par antibiotiques qui",
+        "peuvent entrainer la présence d’animaux excréteurs, apparemment sains, dans le troupeau",
+        "Les animaux morts, les placentas et les avortons doivent être enfouis profondément et dé",
+        "truits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0135_img_01",
+        "mupsa-francais_p0135_img_02",
+        "mupsa-francais_p0135_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-brucellose-est-une-actions-p135"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0135_img_01.webp",
+        "output/images/mupsa-francais_p0135_img_02.webp",
+        "output/images/mupsa-francais_p0135_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0135_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0135_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0135_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0135_img_01",
+          "file": "output/images/mupsa-francais_p0135_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0135_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 135,
+          "width": 377,
+          "height": 240,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0135_img_02",
+          "file": "output/images/mupsa-francais_p0135_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0135_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 135,
+          "width": 381,
+          "height": 243,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0135_img_03",
+          "file": "output/images/mupsa-francais_p0135_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0135_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 135,
+          "width": 370,
+          "height": 235,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "fievre-de-la-vallee-du-rift",
+      "lang": "fr",
+      "title": "Fièvre de la vallée du Rift",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 138
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Humains",
+        "Généralités: La fièvre de la vallée du Rift est une maladie virale aiguë caractérisée par un",
+        "tableau clinique sévère avec une morbidité et une mortalité élevées",
+        "Virus: Du genre Phlebovirus, de la famille des Phenuiviridae, il est particulièrement résis",
+        "tant dans le milieu extérieur",
+        "Période d’incubation: De 1 à 6 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact et/ou absorption de",
+        "toute sécrétion et/ou production animale",
+        "contaminée (sang, lait, viande...)",
+        "Indirecte: Par l’intermédiaire d’un vecteur",
+        "pal)",
+        "Avortements (285, 286)",
+        "Morbidité et mortalité élevées (surtout chez les jeunes)",
+        "Forte fièvre, hyperthermie",
+        "Jetage nasal mucopurulent",
+        "Abattement, anorexie",
+        "Diarrhée sanguinolente, vomissements",
+        "Spasmes musculaires, troubles de la locomotion",
+        "Ictère",
+        "Après autopsie",
+        "Fièvre aiguë",
+        "Douleurs musculaires",
+        "Maux de tête, nausées, photosensibilité",
+        "Complication: hémorragies, signes ner",
+        "veux, perte de vue",
+        "Évolution mortelle possible",
+        "Hépatite nécrosante"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Plasma ou sérum sur anti",
+        "coagulant (Vacutainer 5ml)",
+        "Après autopsie: Foie, rate, cerveau (+5 g),",
+        "avorton entier",
+        "Les animaux morts, les avortons et les autres produits d’avortements doivent être enfouis",
+        "profondément et détruits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [],
+      "action_ids": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0,
+      "actions": []
+    },
+    {
+      "id": "fievre-q",
+      "lang": "fr",
+      "title": "Fièvre Q",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 140
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Oiseaux",
+        "Humains",
+        "Généralités: La fièvre Q, aussi appelée coxiellose, est une maladie infectieuse bactérienne",
+        "extrêmement contagieuse",
+        "Bactérie: De la famille des Coxiellaceae, la bactérie Coxiella burnetii est particulièrement",
+        "résistante dans le milieu extérieur sous forme de pseudo-spore",
+        "Période d’incubation: De 9 à 40 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact et/ou absorption de",
+        "toute sécrétion et/ou production animale",
+        "contaminée (particulièrement le liquide",
+        "amniotique, le placenta, les avortons, le lait,",
+        "l’urine, les fèces...)",
+        "Indirecte: Par l’intermédiaire d’un vecteur",
+        "(tique) et/ou par voie mécanique (litière,",
+        "nourriture, vêtements, matériel, pous",
+        "sière...)",
+        "Généralement peu sévère ou asymptomatique",
+        "Avortements possibles à tous les stades (289, 290)",
+        "Problèmes gynécologiques (métrites)",
+        "Syndrome grippal",
+        "Dans 50% des cas, évolution en forte",
+        "fièvre, maux de tête, douleurs musculaires,",
+        "nausées, vomissements, douleurs thora",
+        "ciques, malaises gastriques",
+        "Complications possibles: pneumonie, at",
+        "teinte hépatique, méningite, encéphalite"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Liquides d’excrétions",
+        "utérines, vaginales, placentaires, tissus",
+        "d’avortons (rate, foie, estomac, poumon),",
+        "lait, colostrum, ou sérum",
+        "Après autopsie: Liquides d’excrétions",
+        "lait, colostrum",
+        "Les animaux morts, les avortons et les autres produits d’avortements doivent être enfouis",
+        "profondément et détruits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [],
+      "action_ids": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0,
+      "actions": []
+    },
+    {
+      "id": "fievre-west-nile",
+      "lang": "fr",
+      "title": "Fièvre West Nile",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 142
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Équidés",
+        "Oiseaux",
+        "Humains",
+        "Généralités: La fièvre West Nile est une maladie infectieuse virale vectorielle",
+        "Virus: Du genre Flavivirus, de la famille des Flaviviridae, il utilise les oiseaux comme prin",
+        "cipal réservoir",
+        "Période d’incubation: 3 à 6 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Indirecte: Par l’intermédiaire d’un vecteur",
+        "(moustiques, principalement du genre",
+        "Culex - 294)",
+        "Affaiblissement",
+        "Ataxie, contractions musculaires, convulsions, paralysie partielle",
+        "Inappétence, dépression",
+        "Mouvements d’appui sur la tête",
+        "Fièvre non systématique",
+        "Grincements de dents",
+        "Peut évoluer en encéphalomyélite à fort taux de mortalité",
+        "Généralement asymptomatique chez les oiseaux",
+        "Syndrome grippal",
+        "Dans 1 à 15% des cas, évolution en forte",
+        "fièvre, maux de tête, douleurs musculaires,",
+        "nausées, éruptions cutanées, douleurs ab",
+        "dominales",
+        "Complications possibles: méningite et/ou",
+        "encéphalite",
+        "Asymptomatique dans 80% des cas"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sérum",
+        "Après autopsie: Cerveau, moelle épinière",
+        "pour les chevaux",
+        "Rein, cœur, cerveau,",
+        "foie, intestin pour les oiseaux"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0143_img_01",
+        "mupsa-francais_p0143_img_02",
+        "mupsa-francais_p0143_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-fievre-west-nile-est-une-actions-p143"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0143_img_01.webp",
+        "output/images/mupsa-francais_p0143_img_02.webp",
+        "output/images/mupsa-francais_p0143_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0143_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0143_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0143_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0143_img_01",
+          "file": "output/images/mupsa-francais_p0143_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0143_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 143,
+          "width": 496,
+          "height": 486,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0143_img_02",
+          "file": "output/images/mupsa-francais_p0143_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0143_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 143,
+          "width": 299,
+          "height": 293,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0143_img_03",
+          "file": "output/images/mupsa-francais_p0143_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0143_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 143,
+          "width": 477,
+          "height": 468,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "influenza-aviaire",
+      "lang": "fr",
+      "title": "Influenza aviaire",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 144
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Toutes les espèces aviaires",
+        "Porcins",
+        "Humains",
+        "Généralités: L’influenza aviaire, aussi appelée grippe aviaire ou peste aviaire, est une mala",
+        "die virale très grave et hautement contagieuse",
+        "Virus: Du genre Influenzavirus A, de la famille des Orthomyxoviridae, il est particulièrement",
+        "résistant dans le milieu extérieur",
+        "Période d’incubation: 3 à 7 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par absorption de toute sécré",
+        "tion et/ou production animale contaminée",
+        "(principalement fécales et respiratoires)",
+        "Indirecte: Par voie mécanique (litière,",
+        "nourriture, vêtements, matériel...)",
+        "Symptômes généraux: abattement, inappétence, prostration",
+        "Symptômes respiratoires: dyspnée, jetages nasaux, toux,",
+        "éternuements, râles",
+        "Symptômes cutanés: crête, caroncule et pattes gonflées et",
+        "congestionnées, plumes hérissées (296, 297)",
+        "Symptômes digestifs: diarrhée",
+        "Symptômes nerveux: tremblements, spasmes",
+        "Chute de ponte brutale, anomalie des œufs",
+        "Hémorragie au niveau des jarrets",
+        "Mort subite (mortalité souvent très élevée)",
+        "Après autopsie",
+        "Fièvre élevée",
+        "Maux de tête",
+        "Diarrhée",
+        "Douleurs musculaires",
+        "Abattement, anorexie",
+        "Dyspnée, éternuements, toux, jetages na",
+        "saux et oculaires",
+        "Évolue rapidement vers de graves troubles",
+        "respiratoires",
+        "Risque mortel non négligeable",
+        "Organes et muscles",
+        "rouges foncés, gonflés,",
+        "hémorragiques",
+        "Trachée rouge vif avec",
+        "des dépôts",
+        "Carcasse déshydratée"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant ou mort: Écouvillons cloacaux et trachéaux, fèces, fragments d’intestin, en",
+        "céphale, trachée, poumon, foie et rate",
+        "Les animaux morts doivent être brûlés ou enfouis profondément et détruits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0145_img_01",
+        "mupsa-francais_p0145_img_02",
+        "mupsa-francais_p0145_img_03",
+        "mupsa-francais_p0145_img_04"
+      ],
+      "action_ids": [
+        "influenza-aviaire-actions-p145"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0145_img_01.webp",
+        "output/images/mupsa-francais_p0145_img_02.webp",
+        "output/images/mupsa-francais_p0145_img_03.webp",
+        "output/images/mupsa-francais_p0145_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0145_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0145_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0145_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0145_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0145_img_01",
+          "file": "output/images/mupsa-francais_p0145_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0145_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 145,
+          "width": 363,
+          "height": 230,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0145_img_02",
+          "file": "output/images/mupsa-francais_p0145_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0145_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 145,
+          "width": 365,
+          "height": 232,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0145_img_03",
+          "file": "output/images/mupsa-francais_p0145_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0145_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 145,
+          "width": 309,
+          "height": 197,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0145_img_04",
+          "file": "output/images/mupsa-francais_p0145_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0145_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 145,
+          "width": 297,
+          "height": 189,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "rage",
+      "lang": "fr",
+      "title": "Rage",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 146
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Tous les mammifères",
+        "Généralités: La rage est une maladie virale grave et hautement contagieuse qui touche le",
+        "système nerveux des animaux à sang chaud",
+        "Virus: Du genre Lyssavirus, de la famille des Rhabdoviridae, il est très peu résistant dans",
+        "le milieu extérieur",
+        "Période d’incubation: 20 à 80 jours, parfois plus (plusieurs années)"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact et/ou absorption de",
+        "salive d’un animal contaminé (souvent par",
+        "morsure, parfois par consommation de",
+        "viande provenant d’un animal mort de la",
+        "maladie)",
+        "Symptômes nerveux: troubles du comportement, agressivité, spasmes, paralysies",
+        "(302, 303), convulsions, hydrophobie",
+        "Hypersalivation",
+        "Forte fièvre",
+        "Constipation",
+        "Inappétence",
+        "Meuglements rauques",
+        "Mort rapide après l’apparition des symptômes",
+        "On différencie la forme furieuse (forte agressivité, convulsions, paralysie progressive...) de",
+        "la forme muette (animal anormalement docile, déprimé, paralysie progressive...)",
+        "Symptômes nerveux: troubles du compor",
+        "tement, agitation, troubles des fonctions",
+        "cérébrales supérieures, anxiété, confusion,",
+        "spasmes, paralysies, convulsions, hydro",
+        "phobie",
+        "Mort rapide après l’apparition des symp",
+        "tômes",
+        "Chez l’humain aussi, on différencie la forme",
+        "furieuse de la forme muette"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sérum",
+        "Après autopsie: Biopsie de cerveau"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0147_img_01",
+        "mupsa-francais_p0147_img_02",
+        "mupsa-francais_p0147_img_03",
+        "mupsa-francais_p0147_img_04"
+      ],
+      "action_ids": [
+        "yy-generalites-la-rage-est-une-actions-p147"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0147_img_01.webp",
+        "output/images/mupsa-francais_p0147_img_02.webp",
+        "output/images/mupsa-francais_p0147_img_03.webp",
+        "output/images/mupsa-francais_p0147_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0147_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0147_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0147_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0147_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0147_img_01",
+          "file": "output/images/mupsa-francais_p0147_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0147_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 147,
+          "width": 338,
+          "height": 331,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0147_img_02",
+          "file": "output/images/mupsa-francais_p0147_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0147_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 147,
+          "width": 444,
+          "height": 435,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0147_img_03",
+          "file": "output/images/mupsa-francais_p0147_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0147_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 147,
+          "width": 490,
+          "height": 480,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0147_img_04",
+          "file": "output/images/mupsa-francais_p0147_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0147_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 147,
+          "width": 477,
+          "height": 468,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "tuberculose-bovine",
+      "lang": "fr",
+      "title": "Tuberculose bovine",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 148
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Humains",
+        "Généralités: La tuberculose bovine est une maladie infectieuse bactérienne chronique hau",
+        "tement contagieuse qui n’affecte pas que les bovins",
+        "Bactérie: De la famille des Mycobacteriaceae, la bactérie Mycobacterium bovis n’est pas",
+        "résistante dans le milieu extérieur",
+        "Période d’incubation: Variable, plusieurs mois à plusieurs années"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par absorption des sécrétions",
+        "nasales ou de gouttelettes dans l’air expiré",
+        "par l’animal malade, et/ou par consomma",
+        "tion de lait cru ou de viande mal cuite",
+        "Toux sèche intermittente",
+        "Adénopathies",
+        "Anorexie",
+        "Fièvre oscillante",
+        "Diarrhée",
+        "Maladie à évolution lente",
+        "Peut rester asymptomatique",
+        "Après autopsie",
+        "Fièvre traînante",
+        "Toux avec crachats (avec parfois du sang)",
+        "Maux de tête",
+        "Douleurs dans la poitrine et les articula",
+        "tions",
+        "Inappétence, fatigue, anorexie",
+        "Caséification des",
+        "ganglions tra",
+        "chéobronchiques et",
+        "médiastinaux",
+        "Nodules dans les",
+        "ganglions mésenté",
+        "riques",
+        "Lésions pulmonaires"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant (Va",
+        "cutainer 5ml)",
+        "Après autopsie: Sang sur anticoagulant",
+        "(Vacutainer 5ml), fragment poumon",
+        "qui doivent être pris sur de longues durées (plusieurs mois)"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0149_img_01",
+        "mupsa-francais_p0149_img_02"
+      ],
+      "action_ids": [
+        "yy-generalites-la-tuberculose-bovine-est-une-actions-p149"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0149_img_01.webp",
+        "output/images/mupsa-francais_p0149_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0149_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0149_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0149_img_01",
+          "file": "output/images/mupsa-francais_p0149_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0149_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 149,
+          "width": 800,
+          "height": 509,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0149_img_02",
+          "file": "output/images/mupsa-francais_p0149_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0149_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 149,
+          "width": 476,
+          "height": 302,
+          "bbox": null
+        }
+      ],
+      "image_count": 2,
+      "actions": []
+    },
+    {
+      "id": "charbon-symptomatique",
+      "lang": "fr",
+      "title": "Charbon symptomatique",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 152
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Généralités: Le charbon symptomatique est une maladie infectieuse aiguë du bétail, à ne",
+        "pas confondre avec le charbon bactéridien",
+        "Bactérie: De la famille des Clostridiaceae, la bactérie Clostridium chauvoei produit des",
+        "spores particulièrement résistantes dans le milieu extérieur",
+        "Période d’incubation: De 2 à 5 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Mort subite",
+        "Boiterie soudaine",
+        "Épaule ou hanche gonflée avec crépitation",
+        "à la palpation",
+        "Forte fièvre",
+        "Baisse d’appétit",
+        "Après autopsie",
+        "Indirecte: Par voie mécanique (sols contaminés, litière, nourriture, vêtements, matériel...)",
+        "Muscle gonflé, caillots de sang noir",
+        "Muscle foncé avec gaz",
+        "Il est recommandé de ne pas autopsier"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant ou mort: Prélèvement de muscle (10*10*10 cm au moins)",
+        "L’évolution clinique est souvent si rapide que l’on n’a pas le temps de traiter les animaux",
+        "infectés",
+        "Les animaux morts doivent être enfouis profondément et détruits à la chaux vive"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0152_img_01",
+        "mupsa-francais_p0153_img_01",
+        "mupsa-francais_p0153_img_02",
+        "mupsa-francais_p0153_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-le-charbon-symptomatique-est-une-actions-p153"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0152_img_01.webp",
+        "output/images/mupsa-francais_p0153_img_01.webp",
+        "output/images/mupsa-francais_p0153_img_02.webp",
+        "output/images/mupsa-francais_p0153_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0152_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0153_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0153_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0153_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0152_img_01",
+          "file": "output/images/mupsa-francais_p0152_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0152_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 152,
+          "width": 811,
+          "height": 514,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0153_img_01",
+          "file": "output/images/mupsa-francais_p0153_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0153_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 153,
+          "width": 247,
+          "height": 331,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0153_img_02",
+          "file": "output/images/mupsa-francais_p0153_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0153_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 153,
+          "width": 294,
+          "height": 220,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0153_img_03",
+          "file": "output/images/mupsa-francais_p0153_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0153_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 153,
+          "width": 369,
+          "height": 275,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "demodecie",
+      "lang": "fr",
+      "title": "Démodécie",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 154
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Équidés",
+        "Généralités: La démodicose, aussi appelée démodécie ou gale démodécique, est une mala",
+        "die parasitaire cutanée causée par des acariens",
+        "Parasite: De la famille des Demodicidae, Demodex bovis affecte les follicules pileux des",
+        "animaux qu’il infecte",
+        "Période d’incubation: De 7 à 20 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Nodules cutanés remplis d’un matériel épais et jaunâtre (315, 316)",
+        "Perte de poils, sans démangeaison (317, 318)",
+        "Plaies et lésions cutanées",
+        "Abattement",
+        "Directe: Par contact (frottement) avec un animal malade",
+        "Indirecte: Par voie mécanique (sols contaminés, litière, nourriture, vêtements, matériel...)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Nodules, raclages cutanés jusqu’à la rosée sanguine"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0155_img_01",
+        "mupsa-francais_p0155_img_02",
+        "mupsa-francais_p0155_img_03"
+      ],
+      "action_ids": [
+        "demodecie-actions-p155"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0155_img_01.webp",
+        "output/images/mupsa-francais_p0155_img_02.webp",
+        "output/images/mupsa-francais_p0155_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0155_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0155_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0155_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0155_img_01",
+          "file": "output/images/mupsa-francais_p0155_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0155_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 155,
+          "width": 476,
+          "height": 468,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0155_img_02",
+          "file": "output/images/mupsa-francais_p0155_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0155_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 155,
+          "width": 190,
+          "height": 187,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0155_img_03",
+          "file": "output/images/mupsa-francais_p0155_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0155_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 155,
+          "width": 476,
+          "height": 468,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "dermatophilose",
+      "lang": "fr",
+      "title": "Dermatophilose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 156
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Équidés",
+        "Généralités: La dermatophilose est une maladie bactérienne cutanée",
+        "Bactérie: De la famille des Dermatophilaceae, Dermatophilus congolensis affecte l’épiderme",
+        "des animaux qu’elle infecte. Elle est particulièrement résistante dans le milieu extérieur",
+        "Période d’incubation: De 15 à 30 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Lésions cutanées avec exsudat séreux, sans démangeaison (319, 320)",
+        "Croûtes jaunâtres, épaisses",
+        "Détachements de peau",
+        "Poils hérissés",
+        "Abattement",
+        "Directe: Par contact (frottement) avec un animal malade",
+        "Indirecte: Par l’intermédiaire d’un vecteur (mouches, tabanidés, tiques, acariens...) et/ou",
+        "par voie mécanique (sols contaminés, litière, nourriture, vêtements, matériel...)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Croûtes fraîches, peau avec lésion, ou sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0157_img_01",
+        "mupsa-francais_p0157_img_02",
+        "mupsa-francais_p0157_img_03",
+        "mupsa-francais_p0157_img_04"
+      ],
+      "action_ids": [
+        "yy-generalites-la-dermatophilose-est-une-actions-p157"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0157_img_01.webp",
+        "output/images/mupsa-francais_p0157_img_02.webp",
+        "output/images/mupsa-francais_p0157_img_03.webp",
+        "output/images/mupsa-francais_p0157_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0157_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0157_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0157_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0157_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0157_img_01",
+          "file": "output/images/mupsa-francais_p0157_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0157_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 157,
+          "width": 475,
+          "height": 466,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0157_img_02",
+          "file": "output/images/mupsa-francais_p0157_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0157_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 157,
+          "width": 373,
+          "height": 366,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0157_img_03",
+          "file": "output/images/mupsa-francais_p0157_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0157_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 157,
+          "width": 484,
+          "height": 474,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0157_img_04",
+          "file": "output/images/mupsa-francais_p0157_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0157_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 157,
+          "width": 478,
+          "height": 468,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "lecthyma-contagieux-aussi-appele-orf-est-une",
+      "lang": "fr",
+      "title": "L’ecthyma contagieux, aussi appelé orf, est une",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 158
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Ovins",
+        "Caprins",
+        "Humains",
+        "Généralités: L’ecthyma contagieux, aussi appelé orf, est une maladie infectieuse virale zoo",
+        "notique",
+        "Virus: Du genre Parapoxvirus, de la famille des Poxviridae, il est très résistant dans le",
+        "milieu extérieur",
+        "Période d’incubation: 4 à 8 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact avec un animal ma",
+        "lade (peau lésée)",
+        "Indirecte: Par voie mécanique (sols conta",
+        "minés, litière, nourriture, matériel...)",
+        "Nodules cutanés croûteux principalement sur la bouche et les naseaux",
+        "Ulcération des muqueuses (en particulier la bouche, les naseaux, les paupières et les ma",
+        "melles) (324, 325)",
+        "Difficultés pour se nourrir chez les jeunes",
+        "Lésion cutanée (papule, puis vésicule puis",
+        "pustule) évoluant parfois vers une croûte",
+        "Fièvre éventuelle"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Biopsie nodules cutanés,",
+        "liquide de nœud lymphatique, sang sur an",
+        "ticoagulant (Vacutainer 5ml)",
+        "Après autopsie: Sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0159_img_01",
+        "mupsa-francais_p0159_img_02",
+        "mupsa-francais_p0159_img_03",
+        "mupsa-francais_p0159_img_04"
+      ],
+      "action_ids": [
+        "yy-generalites-lecthyma-contagieux-aussi-appele-orf-est-une-actions-p159"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0159_img_01.webp",
+        "output/images/mupsa-francais_p0159_img_02.webp",
+        "output/images/mupsa-francais_p0159_img_03.webp",
+        "output/images/mupsa-francais_p0159_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0159_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0159_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0159_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0159_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0159_img_01",
+          "file": "output/images/mupsa-francais_p0159_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0159_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 159,
+          "width": 368,
+          "height": 360,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0159_img_02",
+          "file": "output/images/mupsa-francais_p0159_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0159_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 159,
+          "width": 194,
+          "height": 191,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0159_img_03",
+          "file": "output/images/mupsa-francais_p0159_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0159_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 159,
+          "width": 477,
+          "height": 468,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0159_img_04",
+          "file": "output/images/mupsa-francais_p0159_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0159_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 159,
+          "width": 379,
+          "height": 372,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "gales",
+      "lang": "fr",
+      "title": "Gales",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 160
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Généralités: Les gales sont des maladies parasitaires cutanées causées par des acariens",
+        "Parasites: De nombreuses espèces d’acariens de l’ordre des Sarcoptiformes sont respon",
+        "sables des gales",
+        "Période d’incubation: De 20 à 40 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Perte de poils",
+        "Démangeaisons (l’animal se gratte contre les arbres et/ou les poteaux)",
+        "Peau rouge, épaissie, craquelée (328, 329)",
+        "Abattement",
+        "Baisse de la lactation",
+        "Débute généralement sur la tête et le cou puis s’étend aux pattes arrières",
+        "Directe: Par contact (frottement) avec un animal malade",
+        "Indirecte: Par voie mécanique (notamment les arbres ou les poteaux sur lesquels les ani",
+        "maux malades se sont frottés)"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Raclages cutanés jusqu’à la rosée sanguine"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0161_img_01",
+        "mupsa-francais_p0161_img_02",
+        "mupsa-francais_p0161_img_03",
+        "mupsa-francais_p0161_img_04"
+      ],
+      "action_ids": [
+        "gales-actions-p161"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0161_img_01.webp",
+        "output/images/mupsa-francais_p0161_img_02.webp",
+        "output/images/mupsa-francais_p0161_img_03.webp",
+        "output/images/mupsa-francais_p0161_img_04.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0161_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0161_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0161_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0161_img_04_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0161_img_01",
+          "file": "output/images/mupsa-francais_p0161_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0161_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 161,
+          "width": 324,
+          "height": 318,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0161_img_02",
+          "file": "output/images/mupsa-francais_p0161_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0161_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 161,
+          "width": 378,
+          "height": 371,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0161_img_03",
+          "file": "output/images/mupsa-francais_p0161_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0161_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 161,
+          "width": 239,
+          "height": 234,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0161_img_04",
+          "file": "output/images/mupsa-francais_p0161_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0161_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 161,
+          "width": 497,
+          "height": 487,
+          "bbox": null
+        }
+      ],
+      "image_count": 4,
+      "actions": []
+    },
+    {
+      "id": "leptospirose",
+      "lang": "fr",
+      "title": "Leptospirose",
+      "zoonotic_status": "zoonotic",
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 162
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Humains",
+        "Généralités: La leptospirose est une maladie infectieuse bactérienne zoonotique",
+        "Bactérie: De la famille des Leptospiraceae, Leptospira interrogans sensus lato est résis",
+        "tante dans le milieu extérieur, particulièrement en eau douce",
+        "Période d’incubation: 4 à 14 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Chez l’animal",
+        "Chez l’humain",
+        "Directe: Par contact avec un animal ma",
+        "lade (souvent par morsure d’un rongeur)",
+        "et/ou absorption d’urine d’un animal conta",
+        "miné",
+        "Indirecte: Par voie mécanique (sols conta",
+        "minés, eau souillée, litière, nourriture, ma",
+        "tériel...)",
+        "Souvent asymptomatique",
+        "Baisse de la lactation",
+        "Avortements et troubles de la reproduction",
+        "Fièvre",
+        "Inappétence",
+        "Mammite",
+        "Diarrhée",
+        "Ictère et sang dans les urines en phase aiguë (332, 333)",
+        "Souvent bénigne",
+        "Fièvre, douleurs musculaires",
+        "Nausées, vomissements, diarrhée",
+        "Insuffisance rénale aiguë",
+        "Atteinte hépatique (Ictère)",
+        "Risques d’atteintes pulmonaire, cardiaque",
+        "et neurologique",
+        "Mort dans 5 à 20% des cas"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Urine, reins",
+        "Après autopsie: Sérum"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0163_img_01",
+        "mupsa-francais_p0163_img_02",
+        "mupsa-francais_p0163_img_03"
+      ],
+      "action_ids": [
+        "yy-generalites-la-leptospirose-est-une-actions-p163"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0163_img_01.webp",
+        "output/images/mupsa-francais_p0163_img_02.webp",
+        "output/images/mupsa-francais_p0163_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0163_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0163_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0163_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0163_img_01",
+          "file": "output/images/mupsa-francais_p0163_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0163_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 163,
+          "width": 334,
+          "height": 327,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0163_img_02",
+          "file": "output/images/mupsa-francais_p0163_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0163_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 163,
+          "width": 194,
+          "height": 192,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0163_img_03",
+          "file": "output/images/mupsa-francais_p0163_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0163_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 163,
+          "width": 477,
+          "height": 468,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "pasteurellose",
+      "lang": "fr",
+      "title": "Pasteurellose",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 164
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Généralités: La pasteurellose est une maladie infectieuse bactérienne hautement conta",
+        "gieuse",
+        "Bactérie: De la famille des Pasteurellaceae, la bactérie Mannheimia haemolytica (ancienne",
+        "ment appelée Pasteurella haemolytica) est peu résistante dans le milieu extérieur",
+        "Période d’incubation: De 7 à 10 jours"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Écoulements nasaux mucopurulents",
+        "Respiration difficile et bruyante",
+        "Mort subite",
+        "Forte fièvre",
+        "Brusque chute de la production de lait",
+        "Gorge et langue gonflées, pendant hors de",
+        "la bouche",
+        "Diarrhée abondante",
+        "Principalement durant la saison humide et",
+        "à l’occasion d’un stress (transports...)",
+        "Chez jeunes: septicémie et état de choc",
+        "Après autopsie",
+        "Directe: Par absorption des sécrétions nasales ou de gouttelettes dans l’air expiré par l’ani",
+        "mal malade",
+        "Muqueuses de l’estomac très rouges",
+        "Poumons très rouges",
+        "Poumons foncés avec stries épaisses",
+        "Gorge épaissie avec liquide jaunâtre",
+        "Hémorragies thoraciques",
+        "Hémorragies sur la carcasse"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Sang sur anticoagulant",
+        "(vacutainer 5ml)",
+        "Après autopsie: Sang sur anticoagulant, os",
+        "long, fragment de poumon"
+      ],
+      "general_notes": [],
+      "image_refs": [],
+      "action_ids": [
+        "yy-generalites-la-pasteurellose-est-une-actions-p165"
+      ],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0,
+      "actions": []
+    },
+    {
+      "id": "photosensibilisation",
+      "lang": "fr",
+      "title": "Photosensibilisation",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 166
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Équidés",
+        "Généralités: La photosensibilisation est une hypersensibilité inflammatoire de la peau aux",
+        "rayons du soleil, congénitale ou faisant suite à l’absorption de certaines substances pho",
+        "tosensibilisantes. C’est une atteinte qui concerne essentiellement les animaux à la peau",
+        "claire et au pelage non suffisamment couvrant"
+      ],
+      "clinical_signs": [
+        "Principe",
+        "Lésions cutanées: Rougeur, brûlure, tuméfaction, dépilation, peau craquelée (343, 344)",
+        "Fièvre",
+        "Amaigrissement",
+        "Ictère",
+        "La photosensibilisation acquise",
+        "Résulte de la présence dans la circulation sanguine périphérique (vaisseaux sanguins de",
+        "la peau) de substances photodynamiques",
+        "De type I: L’action est directe, la substance (médicament, plante, substance interne à",
+        "l’organisme) est elle-même photosensibilisante",
+        "De type II: L’action est indirecte, la substance a des propriétés hépatotoxiques et conduit",
+        "à la libération, par le foie, de substances photosensibilisantes",
+        "La photosensibilisation innée",
+        "Résulte d’une anomalie génétique qui affecte la pigmentation (albinisme)",
+        "Traitement",
+        "Soins locaux des plaies",
+        "Soustraction au soleil",
+        "Soustraction à la plante ou au médicament responsable"
+      ],
+      "lesions": [
+        "Lésions cutanées: Rougeur, brûlure, tuméfaction, dépilation, peau craquelée (343, 344)",
+        "la peau) de substances photodynamiques",
+        "Soins locaux des plaies"
+      ],
+      "transmission": [],
+      "samples": [],
+      "treatment": [
+        "Soins locaux des plaies",
+        "Soustraction au soleil",
+        "Soustraction à la plante ou au médicament responsable"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0166_img_01",
+        "mupsa-francais_p0167_img_01",
+        "mupsa-francais_p0167_img_02"
+      ],
+      "action_ids": [
+        "photosensibilisation-actions-p167"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0166_img_01.webp",
+        "output/images/mupsa-francais_p0167_img_01.webp",
+        "output/images/mupsa-francais_p0167_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0166_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0167_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0167_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0166_img_01",
+          "file": "output/images/mupsa-francais_p0166_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0166_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 166,
+          "width": 1182,
+          "height": 1032,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0167_img_01",
+          "file": "output/images/mupsa-francais_p0167_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0167_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 167,
+          "width": 490,
+          "height": 235,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0167_img_02",
+          "file": "output/images/mupsa-francais_p0167_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0167_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 167,
+          "width": 902,
+          "height": 431,
+          "bbox": null
+        }
+      ],
+      "image_count": 3,
+      "actions": []
+    },
+    {
+      "id": "vers-intestinaux",
+      "lang": "fr",
+      "title": "Vers intestinaux",
+      "zoonotic_status": null,
+      "notification_status": null,
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 168
+        }
+      ],
+      "species": [],
+      "pathogenicity": [
+        "Bovins",
+        "Ovins",
+        "Caprins",
+        "Porcins",
+        "Équidés",
+        "Généralités: Les vers intestinaux sont des parasites qui peuvent être responsables d’infes",
+        "tations sévères chez leurs hôtes",
+        "Parasites: De très nombreuses espèces de vers parasites sont responsables d’infestations",
+        "intestinales",
+        "Période d’incubation: Variable, de l’ordre de 3 à 4 semaines"
+      ],
+      "clinical_signs": [],
+      "lesions": [],
+      "transmission": [
+        "Diarrhée",
+        "Anorexie",
+        "Signe de la bouteille (347, 348)",
+        "Abdomen gonflé",
+        "Croissance ralentie",
+        "Baisse de la lactation",
+        "Poil piqué",
+        "Muqueuses pâles",
+        "Après autopsie",
+        "Directe: Par absorption/léchage de matières souillées par les déjections d’animaux infectés",
+        "qui contiennent des œufs",
+        "Carcasse pâle avec aspect humide",
+        "Vers dans le rumen"
+      ],
+      "samples": [],
+      "treatment": [
+        "Animal vivant: Selles fraîches",
+        "Après autopsie: Selles fraîches"
+      ],
+      "general_notes": [],
+      "image_refs": [
+        "mupsa-francais_p0169_img_01",
+        "mupsa-francais_p0169_img_02"
+      ],
+      "action_ids": [
+        "vers-intestinaux-actions-p169"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0169_img_01.webp",
+        "output/images/mupsa-francais_p0169_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0169_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0169_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0169_img_01",
+          "file": "output/images/mupsa-francais_p0169_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0169_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 169,
+          "width": 496,
+          "height": 316,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0169_img_02",
+          "file": "output/images/mupsa-francais_p0169_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0169_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 169,
+          "width": 314,
+          "height": 201,
+          "bbox": null
+        }
+      ],
+      "image_count": 2,
+      "actions": []
+    }
+  ],
+  "procedures": [
+    {
+      "id": "fr-apres-autopsie",
+      "lang": "fr",
+      "title": "Après autopsie",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 83
+        }
+      ],
+      "content": [
+        "Santé animale de base",
+        "Maladie",
+        "Animal",
+        "Types d’analyses",
+        "Types de",
+        "prélèvements",
+        "Conditions",
+        "de transport",
+        "RAGE",
+        "Animal vivant",
+        "Immunologiques",
+        "Sérum",
+        "Sous froid (+4 °C)",
+        "Virologiques",
+        "(Test de fluorescence direct,",
+        "immunohistochimie, biologie",
+        "moléculaire)",
+        "Biopsie de cerveau",
+        "THEILÉRIOSE",
+        "Parasitologiques",
+        "(Frottis sanguin ou nœud",
+        "lymphatique sur lame avec",
+        "coloration, biologie moléculaire)",
+        "Nœud lymphatique",
+        "Sang sur anticoagulant",
+        "(Vacutainer 5ml)",
+        "Sérologiques",
+        "TUBERCULOSE",
+        "BOVINE",
+        "Immunologiques liés à la production",
+        "d’interféron/Bactériologiques",
+        "(isolement, détection du pathogène",
+        "par techniques de biologie",
+        "Test Intradermo tuberculinique",
+        "avec lecture 72 heures plus tard",
+        "Injection tuberculinique",
+        "d’interféron",
+        "(Vacutainer 5ml), fragment poumon,",
+        "nœud lymphatique, rate",
+        "VERS INTESTINAUX",
+        "Microscopiques/Coprologie",
+        "Selles fraîches",
+        "Sous froid (+4 °C) en pot à",
+        "coproculture ou à température",
+        "ambiante sur gant de fouille"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-diagnostiquer-une-maladie-58",
+      "lang": "fr",
+      "title": "Diagnostiquer une maladie",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 10
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 47
+        }
+      ],
+      "content": [
+        "M.U.P.S.A",
+        "Mallette Pédagogique Santé Animale",
+        "Partie II: Santé animale de base",
+        "Techniques de base en santé animale",
+        "Mesurer la température corporelle",
+        "Évaluer le poids",
+        "Désinfecter avant injection",
+        "Nettoyer les plaies",
+        "Administrer des médicaments",
+        "Introduction au diagnostic",
+        "Différencier l’animal sain de l’animal malade",
+        "Examen clinique",
+        "Objectifs 62",
+        "Méthode en trois étapes",
+        "Examen clinique rapproché",
+        "Tableau récapitulatif",
+        "Examen nécropsique: Autopsie",
+        "Définition et objectifs",
+        "Conditions de réalisation",
+        "Examens de laboratoire: Prélèvements",
+        "Prélèvements à partir de l’animal vivant",
+        "Modalités de conservation et de transport",
+        "Confirmation de diagnostic",
+        "Partie III: Introduction aux maladies animales",
+        "Agents pathogènes et transmission",
+        "Agents pathogènes",
+        "PARTIE II",
+        "Santé animale",
+        "de base"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-differencier-lanimal-sain-de-lanimal-malade",
+      "lang": "fr",
+      "title": "Différencier l’animal sain de l’animal malade",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 59
+        }
+      ],
+      "content": [
+        "Santé animale de base",
+        "L’animal sain",
+        "y",
+        "Gai, calme, attentif;",
+        "Constitution robuste;",
+        "Peau souple et lisse;",
+        "Poil brillant;",
+        "Appétit, rumination régulière;",
+        "Fèces mi-liquide, mi-solide;",
+        "Orifices naturels propres;",
+        "Démarche régulière, sans boiterie;",
+        "Muqueuses humides et roses;",
+        "Naseaux humides et clairs;",
+        "Respiration régulière et silencieuse;",
+        "Urine fluide, jaune plus ou moins foncée;",
+        "Chez la volaille: plumage lisse, tête droite, démarche assurée,",
+        "fèces bicolores et semi-liquides.",
+        "L’animal malade",
+        "Triste, nerveux ou agité;",
+        "Maigre;",
+        "Peau rugueuse et dénudée par endroits;",
+        "Poil piqué, cassant et terne;",
+        "Manque d’appétit ou pica (mange de la terre ou des fèces);",
+        "Fèces liquides ou solides;",
+        "Orifices naturels souillés et sales;",
+        "Démarche incertaine, boiterie;",
+        "Muqueuses rouge foncé ou pâles, violacées ou déshydratées;",
+        "Naseaux secs et craquelés;",
+        "Respiration irrégulière et bruyante;",
+        "Urine foncée striée de sang;",
+        "Chez la volaille: plumage hérissé, ailes tombantes, écoulements",
+        "sur le bec, conjonctivite (yeux sales), tête couchée sur le dos, af-",
+        "faissement sur les tarses."
+      ],
+      "image_refs": [
+        "mupsa-francais_p0059_img_01"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0059_img_01.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0059_img_01_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0059_img_01",
+          "file": "output/images/mupsa-francais_p0059_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0059_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 59,
+          "width": 710,
+          "height": 462,
+          "bbox": null
+        }
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "fr-examen-clinique-rapproche",
+      "lang": "fr",
+      "title": "Examen clinique rapproché",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 64
+        }
+      ],
+      "content": [
+        "M.U.P.S.A",
+        "Mallette Pédagogique Santé Animale",
+        "Muqueuses",
+        "(bouche et yeux):",
+        "y",
+        "Couleur;",
+        "État d’humidité;",
+        "Nature des écoulements.",
+        "Degré d’hydratation",
+        "(pli de peau):",
+        "Tirer;",
+        "Relâcher.",
+        "Ö",
+        "Ö Le pli doit disparaître immédiatement.",
+        "S’il persiste quelques instants, cela veut",
+        "dire que l’animal est déshydraté.",
+        "Ganglions",
+        "lymphatiques:",
+        "Emplacement des ganglions palpables",
+        "sous la peau;",
+        "Palper et apprécier la taille: si le ganglion",
+        "est gros et facile à saisir à la main, c’est",
+        "le signe d’une maladie."
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-examen-necropsique-autopsie",
+      "lang": "fr",
+      "title": "Examen nécropsique: Autopsie",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 71
+        }
+      ],
+      "content": [
+        "Santé animale de base",
+        "Section 4"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-lautopsie-ou-examen-necropsique-est-la-continuation-de-lexamen-cli",
+      "lang": "fr",
+      "title": "L’autopsie (ou examen nécropsique) est la continuation de l’examen cli-",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 72
+        }
+      ],
+      "content": [
+        "M.U.P.S.A",
+        "Mallette Pédagogique Santé Animale",
+        "Définition et objectifs",
+        "nique pratiqué sur le même animal avant sa mort, ou sur d’autres animaux",
+        "présentant les mêmes symptômes.",
+        "L’autopsie a 2 buts essentiels:",
+        "y",
+        "Observer les organes internes de l’animal pour rechercher d’éven-",
+        "tuelles lésions permettant d’orienter le diagnostic;",
+        "Faire des prélèvements en vue des examens de laboratoire.",
+        "Une illustration du matériel nécessaire à la réalisation",
+        "de l’examen d’autopsie est disponible en page",
+        "Les méthodologies complètes d’autopsie pour",
+        "les petits ruminants et les volailles sont",
+        "disponibles en annexes 3 et 4 (pages 227 et 235)",
+        "Conditions de réalisation",
+        "z",
+        "z Lorsque l’on intervient sur un cadavre, l’autopsie doit être pratiquée",
+        "le plus rapidement possible après la mort;",
+        "z Une autopsie tardive fournira peu de renseignements et ne permet-",
+        "tra pas de faire des prélèvements de qualité;",
+        "z Pour être valable une autopsie doit être complète (142 à 150,",
+        "quelques étapes d’une autopsie sur un petit ruminant);",
+        "z Il ne faut pas limiter l’examen au seules parties supposées ma-",
+        "lades car il arrive souvent que l’examen des autres organes (sup-",
+        "posés sains), réserve des surprises."
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-lexamen-necropsique-est-la-continuation-de-lexamen-clinique-pratique",
+      "lang": "fr",
+      "title": "L’examen nécropsique est la continuation de l’examen clinique pratiqué",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 228
+        }
+      ],
+      "content": [
+        "M.U.P.S.A",
+        "Mallette Pédagogique Santé Animale",
+        "Notions de base",
+        "Examen nécropsique - Introduction",
+        "sur le même animal avant sa mort, ou sur d’autres animaux présentant les",
+        "mêmes symptômes.",
+        "L’autopsie a 2 buts essentiels:",
+        "Observer les organes internes de l’animal pour rechercher d’éven-",
+        "tuelles lésions permettant d’orienter le diagnostic;",
+        "Faire des prélèvements en vue des examens de laboratoire.",
+        "Les meilleurs résultats d’autopsie sont obtenus sur l’animal sacrifié par sai-",
+        "gnée. Lorsque l’on intervient sur un cadavre, l’autopsie doit être pratiquée le",
+        "plus rapidement possible après la mort.",
+        "Examen nécropsique - Avant l’autopsie",
+        "Matériel utile minimum",
+        "y",
+        "Une paire de gants;",
+        "Un gros couteau bien aiguisé;",
+        "Une paire de ciseaux;",
+        "Une fiche d’autopsie et de prélèvements;",
+        "Si des prélèvements doivent être effectués, prévoir en plus du matériel pré-",
+        "cédent des instruments stériles à savoir:",
+        "Un couteau ou un scalpel;",
+        "Des pots de prélèvements.",
+        "Examen de l’animal ou du cadavre avant autopsie",
+        "Tout d’abord interroger l’éleveur et remplir la partie correspondante de la",
+        "fiche « autopsie et prélèvements » disponible. Noter ensuite tout ce qui peut",
+        "être observé sur le cadavre avant autopsie:",
+        "Etat général: bon, moyen, mauvais;",
+        "Présence d’ectoparasites: tiques, puces, poux;",
+        "Etat des muqueuses: anémie, congestion, ictère;",
+        "Lésions gingivales, linguales, buccales, nasales, oculaires;",
+        "Examen des orifices naturels: jetage, larmoiement, écoulement,",
+        "diarrhée, hémorragies, etc.;",
+        "Faire éventuellement des prélèvements: ectoparasites, croûtes cu-",
+        "tanées, fèces, liquide d’écoulement vulvaire, etc."
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-prelevements-a-partir-de-lanimal-vivant",
+      "lang": "fr",
+      "title": "Prélèvements à partir de l’animal vivant",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 76
+        }
+      ],
+      "content": [
+        "M.U.P.S.A",
+        "Mallette Pédagogique Santé Animale",
+        "Sang total",
+        "ou sérum:",
+        "Ponction",
+        "ganglionnaire:",
+        "Écouvillonnage",
+        "oculaire:",
+        "Calque sanguin sur",
+        "papier filtre:",
+        "nasal:",
+        "buccal:",
+        "Pour votre sécurité et celle des animaux,",
+        "il est impératif de porter des gants!",
+        "Dans certaines circonstances, le port du masque et des lunettes",
+        "est aussi fortement recommandé!",
+        "Tout le matériel doit impérativement être rangé en lieu sûr,",
+        "hors de portée des enfants!"
+      ],
+      "image_refs": [
+        "mupsa-francais_p0076_img_01",
+        "mupsa-francais_p0076_img_02",
+        "mupsa-francais_p0076_img_03"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0076_img_01.webp",
+        "output/images/mupsa-francais_p0076_img_02.webp",
+        "output/images/mupsa-francais_p0076_img_03.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0076_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0076_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0076_img_03_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0076_img_01",
+          "file": "output/images/mupsa-francais_p0076_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0076_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 76,
+          "width": 191,
+          "height": 185,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0076_img_02",
+          "file": "output/images/mupsa-francais_p0076_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0076_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 76,
+          "width": 204,
+          "height": 197,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0076_img_03",
+          "file": "output/images/mupsa-francais_p0076_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0076_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 76,
+          "width": 185,
+          "height": 180,
+          "bbox": null
+        }
+      ],
+      "image_count": 3
+    },
+    {
+      "id": "fr-techniques-dautopsie-sur-les-volailles",
+      "lang": "fr",
+      "title": "Techniques d’autopsie sur les volailles",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 235
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 237
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 239
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 241
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 243
+        }
+      ],
+      "content": [
+        "Annexes",
+        "Annexe 4",
+        "Adaptée à partir du document Autopsie en pathologie aviaire",
+        "de Jean-Luc Guérin et Cyril Boissieu, École Nationale Vétérinaire de Toulouse",
+        "Protocole à suivre",
+        "Étape 1 - Examen interne",
+        "et préparation",
+        "y",
+        "Appréciation de l’état général:",
+        "• Pesée, état d’engraissement.",
+        "Examen de la tête:",
+        "• Écoulements (narines, sinus);",
+        "• Yeux: présence d’écoulement,",
+        "paupières, cornée, conjonctive...;",
+        "• Appendices: crête, barbillons, ca-",
+        "roncules.",
+        "Examen du revêtement cutané et des",
+        "muqueuses:",
+        "• Ectoparasites, plaies, abcès;",
+        "• Tumeurs (follicules plumeux:",
+        "Marek);",
+        "• Muqueuses buccale, oculaire.",
+        "Euthanasier l’oiseau:",
+        "• Luxation occipitale;",
+        "• Ou injection euthanasique dans le",
+        "sinus occipital;",
+        "• Saignée (permet une meilleure lec-",
+        "ture des lésions de type conges-",
+        "tivo-hémorragique).",
+        "Humecter la peau et le plumage.",
+        "Disposer l’animal en décubitus dorsal.",
+        "Étape 2 - Exploration de la cavité oropharyngée",
+        "et de la trachée",
+        "Ouvrir le bec;",
+        "Couper les commissures et descendre",
+        "le long du cou en sectionnant l’œso-",
+        "phage;",
+        "Examiner la cavité buccale et l’oropha-",
+        "rynx;",
+        "Rechercher la présence de pétéchies,",
+        "mucus, ulcères.",
+        "Étape 3 - Dépouillement",
+        "du cadavre",
+        "Inciser la peau des plis de l’aine et désar-",
+        "ticuler les pattes en les ramenant vers le",
+        "dos (402, 403).",
+        "Étape 7 - Examen de l’appareil",
+        "uro-génital",
+        "Chez la femelle:",
+        "• Dégager et examiner la grappe",
+        "ovarienne après section de la",
+        "base du pédicule, tirer légèrement",
+        "sur l’oviducte pour l’extraire en le",
+        "disséquant;",
+        "• Attention: très forte variabilité en",
+        "fonction du stade physiologique",
+        "(maturité > 18 semaines chez la",
+        "poule);",
+        "• Observer les reins, encastrés",
+        "dans l’os lombo-sacré.",
+        "Chez le mâle:",
+        "• Retirer et examiner les testicules;",
+        "position, volume, couleur;",
+        "• Attention: forte variabilité en",
+        "(maturité > 18 semaines chez le",
+        "coq);",
+        "Examen de l’appareil urinaire et des",
+        "surrénales chez le caneton.",
+        "Étape 8 - Examen des organes",
+        "hémato-lymphopoïétiques",
+        "Rate:",
+        "• Isoler la rate de la masse diges-",
+        "tive;",
+        "• Observer son aspect, sa couleur,",
+        "son volume, sa section.",
+        "Bourse de Fabricius:",
+        "• Située au plafond du cloaque;",
+        "• Observer son volume, son aspect",
+        "et sa muqueuse;",
+        "• Régression de 10 à 20 semaines",
+        "(poule).",
+        "Étape 9 - Examen du",
+        "système nerveux",
+        "Prélèvement du nerf sciatique (422,",
+        "• Dans le cadre d’une suspicion de",
+        "maladie de Marek, le nerf scia-",
+        "tique et le plexus lombosacré sont",
+        "prélevés en vue d’analyse histolo-",
+        "gique;",
+        "Prélèvement de l’encéphale (424, 425):",
+        "• Des ciseaux forts sont introduits",
+        "dans le trou occipital (nuque) et la",
+        "calotte crânienne est découpée;",
+        "• Les hémisphères cérébraux, le",
+        "cervelet et le tronc (en position",
+        "ventrale) sont retirés d’un seul",
+        "bloc."
+      ],
+      "image_refs": [
+        "mupsa-francais_p0241_img_01",
+        "mupsa-francais_p0241_img_02",
+        "mupsa-francais_p0241_img_03",
+        "mupsa-francais_p0241_img_04",
+        "mupsa-francais_p0241_img_05",
+        "mupsa-francais_p0241_img_06",
+        "mupsa-francais_p0243_img_01",
+        "mupsa-francais_p0243_img_02",
+        "mupsa-francais_p0243_img_03",
+        "mupsa-francais_p0243_img_04",
+        "mupsa-francais_p0243_img_05",
+        "mupsa-francais_p0243_img_06"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0241_img_01.webp",
+        "output/images/mupsa-francais_p0241_img_02.webp",
+        "output/images/mupsa-francais_p0241_img_03.webp",
+        "output/images/mupsa-francais_p0241_img_04.webp",
+        "output/images/mupsa-francais_p0241_img_05.webp",
+        "output/images/mupsa-francais_p0241_img_06.webp",
+        "output/images/mupsa-francais_p0243_img_01.webp",
+        "output/images/mupsa-francais_p0243_img_02.webp",
+        "output/images/mupsa-francais_p0243_img_03.webp",
+        "output/images/mupsa-francais_p0243_img_04.webp",
+        "output/images/mupsa-francais_p0243_img_05.webp",
+        "output/images/mupsa-francais_p0243_img_06.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0241_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0241_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0241_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0241_img_04_thumb.webp",
+        "output/thumbs/mupsa-francais_p0241_img_05_thumb.webp",
+        "output/thumbs/mupsa-francais_p0241_img_06_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_02_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_03_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_04_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_05_thumb.webp",
+        "output/thumbs/mupsa-francais_p0243_img_06_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0241_img_01",
+          "file": "output/images/mupsa-francais_p0241_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 321,
+          "height": 203,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0241_img_02",
+          "file": "output/images/mupsa-francais_p0241_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 343,
+          "height": 457,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0241_img_03",
+          "file": "output/images/mupsa-francais_p0241_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 332,
+          "height": 209,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0241_img_04",
+          "file": "output/images/mupsa-francais_p0241_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 332,
+          "height": 209,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0241_img_05",
+          "file": "output/images/mupsa-francais_p0241_img_05.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_05_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 316,
+          "height": 199,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0241_img_06",
+          "file": "output/images/mupsa-francais_p0241_img_06.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0241_img_06_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 241,
+          "width": 343,
+          "height": 458,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_01",
+          "file": "output/images/mupsa-francais_p0243_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 194,
+          "height": 259,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_02",
+          "file": "output/images/mupsa-francais_p0243_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 187,
+          "height": 249,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_03",
+          "file": "output/images/mupsa-francais_p0243_img_03.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_03_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 247,
+          "height": 328,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_04",
+          "file": "output/images/mupsa-francais_p0243_img_04.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_04_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 242,
+          "height": 322,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_05",
+          "file": "output/images/mupsa-francais_p0243_img_05.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_05_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 302,
+          "height": 402,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0243_img_06",
+          "file": "output/images/mupsa-francais_p0243_img_06.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0243_img_06_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 243,
+          "width": 304,
+          "height": 405,
+          "bbox": null
+        }
+      ],
+      "image_count": 12
+    },
+    {
+      "id": "fr-techniques-dautopsie-sur-petits-ruminants",
+      "lang": "fr",
+      "title": "Techniques d’autopsie sur petits ruminants",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 227
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 231
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 233
+        }
+      ],
+      "content": [
+        "Annexes",
+        "Annexe 3",
+        "Adaptée à partir de la Note technique d’autopsie destinée aux agents de terrain",
+        "de la Direction de l’élevage - Ministère de l’agriculture et de l’élevage - République du Sénégal",
+        "Organes abdominaux",
+        "Foie",
+        "Il sera enlevé en sectionnant ses adhérences au diaphragme ainsi que les",
+        "vaisseaux sanguins y afférant. Noter son volume, sa couleur, sa consis-",
+        "tance, la présence de nodules, abcès, cysticerques, douves, autres para-",
+        "sites. Le volume de la vésicule biliaire sera également noté (normale ou",
+        "volumineuse).",
+        "Rate",
+        "Elle adhère au rumen en région diaphragmatique. Observer sa taille, sa cou-",
+        "leur, sa consistance après section.",
+        "Reins",
+        "Ils peuvent être enlevés facilement à la main, les décapsuler en incisant la",
+        "capsule, observer alors leur apparence externe. Noter la présence de pé-",
+        "téchies ou d’infarctus (petite zone punctiforme de dégénérescence) puis",
+        "inciser longitudinalement et vérifier l’état des différentes zones: médullaire",
+        "et corticale (néphrite), ainsi que la présence éventuelle d’abcès ou de pus",
+        "(pyélonéphrite).",
+        "Ganglions lymphatiques",
+        "Les plus accessibles sont les ganglions mésentériques qui se situent entre",
+        "les anses intestinales sur le mésentère. Après les avoir enlevés, noter leur",
+        "aspect externe et interne après section (congestionné, hémorragique, pu-",
+        "rulent).",
+        "Tête-cerveau",
+        "Le cerveau doit être examiné chaque fois que l’on observe des troubles ner-",
+        "veux ainsi que lors de suspicion de cowdriose. L’ouverture de la boîte crâ-",
+        "nienne nécessite chez l’adulte l’utilisation d’un coupe-coupe ou d’un gros",
+        "couteau. Pour accéder au cerveau, après avoir enlevé la peau, procéder aux",
+        "sections de la boîte crânienne. Enlever ensuite le volet de la boîte crânienne",
+        "sectionné et observer l’aspect externe du cerveau: œdème, congestion, hé-",
+        "morragie, présence de coenures. Sectionner la moelle osseuse en dessous",
+        "du bulbe ainsi que les nerfs optiques en avant du cerveau et dégager com-",
+        "plètement le cerveau de la boîte crânienne.",
+        "Tube digestif",
+        "Celui-ci doit être examiné en dernier lieu (393, 394).",
+        "Examen des estomacs: Observer le contenu. Il est très fréquent de trouver",
+        "du tissu, de la corde ou du plastique dans le rumen. Après avoir enlevé le",
+        "contenu, observer l’état des muqueuses.",
+        "Examen des intestins: Noter l’aspect extérieur des différentes portions (bal-",
+        "lonnement, congestion, hémorragie). Procéder à l’ouverture des portions",
+        "qui paraissent anormales et observer la muqueuse (395, 396).",
+        "Recherche de parasites: Ascaris, ténias, strongles, surtout au niveau de la",
+        "caillette et de l’intestin grêle.",
+        "Attention particulière aux sphincters: Pylore, cardia, valvule iléo-cæcale. Ils",
+        "sont souvent le siège de lésions (ulcères, hémorragies) lors de maladies",
+        "virales.",
+        "Géraldine Laveissiere © cirad-astre,"
+      ],
+      "image_refs": [
+        "mupsa-francais_p0233_img_01"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0233_img_01.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0233_img_01_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0233_img_01",
+          "file": "output/images/mupsa-francais_p0233_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0233_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 233,
+          "width": 724,
+          "height": 708,
+          "bbox": null
+        }
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "fr-techniques-dautopsie-sur-petits-ruminants-227",
+      "lang": "fr",
+      "title": "Techniques d’autopsie sur petits ruminants",
+      "section": "diagnostic_or_field_procedure",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 13
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 205
+        }
+      ],
+      "content": [
+        "Sommaire",
+        "Antiparasitaires 191",
+        "Anti-inflammatoires 196",
+        "Autres produits",
+        "Pour les volailles",
+        "Vaccins 201",
+        "Prévention et responsabilité",
+        "Quelques exemples",
+        "Annexes 205",
+        "Traitement épicutané du bétail",
+        "Le pédiluve acaricide",
+        "Techniques d’autopsie sur les volailles",
+        "Techniques de contention",
+        "Quelques laboratoires de référence",
+        "Cadre réglementaire des transports de prélèvements",
+        "ANNEXES",
+        "Pourquoi traiter?",
+        "Comment traiter?",
+        "Avec quels produits?",
+        "En bref",
+        "Lutter contre la tique Amblyomma variegatum adulte",
+        "Comment construire un pédiluve?",
+        "Comment utiliser le pédiluve?",
+        "Notions de base",
+        "Technique opératoire",
+        "Protocole à suivre",
+        "Techniques de contention chez les bovins",
+        "Techniques de contention chez les petits ruminants, les porcins et les volailles",
+        "Cadre réglementaire des matières infectieuses",
+        "Classification des matières infectieuses",
+        "Instructions Microorganismes Catégorie A",
+        "Instructions Microorganismes Catégorie B"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    }
+  ],
+  "symptom_maps": [
+    {
+      "id": "fr-avortement",
+      "lang": "fr",
+      "symptom_title": "Avortement",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 176
+        }
+      ],
+      "likely_diseases": [
+        "M.U.P.S.A",
+        "Babésiose",
+        "Brucellose",
+        "Cowdriose",
+        "JETAGE NASAL MUCOPURULENT (EN PHASE AIGUË)",
+        "TROUBLES NERVEUX",
+        "HYPERTHERMIE",
+        "SANG DANS LES URINES",
+        "PLACENTA EN RÉTENTION",
+        "TESTICULES TUMÉFIÉS",
+        "ARTICULATIONS GONFLÉES",
+        "VÉSICULES DANS LA BOUCHE,",
+        "SUR LES TRAYONS, ENTRE ET",
+        "AU SOMMET DES ONGLONS",
+        "HYPERSALIVATION",
+        "PROBLÈMES GYNÉCOLOGIQUES"
+      ],
+      "notes": [
+        "Mallette Pédagogique Santé Animale",
+        "Fièvre aphteuse",
+        "Fièvre de la vallée du Rift",
+        "Fièvre Q",
+        "DIARRHÉE SANGUINOLENTE (EN PHASE AIGUË)",
+        "DIARRHÉE",
+        "DIARRHÉE EN CORDE"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-boiterie",
+      "lang": "fr",
+      "symptom_title": "Boiterie",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 174
+        }
+      ],
+      "likely_diseases": [
+        "M.U.P.S.A",
+        "Arthrite",
+        "Blessure",
+        "Charbon symptomatique",
+        "Piétin",
+        "HYPERSALIVATION",
+        "VÉSICULES DANS LA BOUCHE,",
+        "SUR LES TRAYONS, ENTRE ET",
+        "AU SOMMET DES ONGLONS",
+        "INAPPÉTENCE",
+        "MUSCLE GONFLÉ,",
+        "CRÉPITATIONS AU TOUCHER",
+        "ARTICULATION CHAUDE, GONFLÉE",
+        "ET DOULOUREUSE",
+        "PLAIE SUINTANTE ENTRE LES ONGLONS",
+        "AVEC NÉCROSE ET MAUVAISE ODEUR",
+        "DYSPNÉE",
+        "BLESSURE PROFONDE",
+        "HÉMORRAGIES ET ULCÉRATIONS",
+        "DU NEZ ET DE LA BOUCHE"
+      ],
+      "notes": [
+        "Mallette Pédagogique Santé Animale",
+        "Fièvre aphteuse",
+        "Fièvre catarrhale ovine",
+        "FIÈVRE",
+        "DIARRHÉE"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-diarrhee-abondante",
+      "lang": "fr",
+      "symptom_title": "DIARRHÉE ABONDANTE",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 177
+        }
+      ],
+      "likely_diseases": [
+        "Maladies respiratoires (petits ruminants)",
+        "Ecthyma contagieux",
+        "Pasteurellose",
+        "Peste des petits ruminants",
+        "Pleuropneumonie contagieuse caprine",
+        "GORGE ET LANGUE GONFLÉES",
+        "ÉCOULEMENTS NASAUX PURULENTS",
+        "RESPIRATION DOULOUREUSE",
+        "JETAGE MUCOPURULENT",
+        "JETAGE",
+        "ÉCOULEMENT NASAL, BUCCAL ET OCULAIRE",
+        "VÉSICULES CROÛTEUSES",
+        "SUR LE MUSEAU, LES LÈVRES",
+        "ET LES MAMELLES"
+      ],
+      "notes": [
+        "Maladies animales prioritaires",
+        "DIARRHÉE SÉVÈRE"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-maladies-de-peau",
+      "lang": "fr",
+      "symptom_title": "Maladies de peau",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 173
+        }
+      ],
+      "likely_diseases": [
+        "Dermatophilose",
+        "Dermatose nodulaire contagieuse",
+        "Gale",
+        "Photosensibilisation",
+        "Teigne",
+        "CROÛTES JAUNÂTRES ÉPAISSES",
+        "SEULEMENT SUR ROBES BLANCHES",
+        "PERTE DE POILS",
+        "BRÛLURES, TUMÉFACTIONS",
+        "POILS HÉRISSÉS",
+        "PAS DE DÉMANGEAISON",
+        "PEAU ROUGE ÉPAISSIE ET CRAQUELÉE",
+        "NODULES CUTANÉS +/- NÉCROSÉS",
+        "ÉCOULEMENTS NASAUX ET OCULAIRES",
+        "HYPERSALIVATION",
+        "PEAU PÂLE ÉPAISSIE",
+        "MARQUES CIRCULAIRES",
+        "DÉMANGEAISONS"
+      ],
+      "notes": [
+        "Maladies animales prioritaires"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-abattement",
+      "lang": "fr",
+      "symptom_title": "abattement",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 69
+        },
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 172
+        }
+      ],
+      "likely_diseases": [
+        "Examen",
+        "Observations",
+        "Normal",
+        "Inquiétant",
+        "SYSTÈME NERVEUX",
+        "Vérifier la vue, le comportement",
+        "calme",
+        "Pas de réaction au déplacement d’objet ou",
+        "de la main devant les yeux, agressivité ou",
+        "PEAU",
+        "Etat du poil, couleur et aspect de la peau",
+        "Poil lisse, brillant, peau sèche et nette",
+        "Poil dressé, cassant, terne, peau suintante",
+        "ou couverte de croûtes, taches rouges sur",
+        "la peau",
+        "MAMELLE",
+        "Etat des trayons, palpation des quartiers",
+        "Trayons nets et indolores, mamelle souple",
+        "et indolore, taille des mamelles équilibrée",
+        "Trayons avec croûtes ou papules,",
+        "douloureux, mamelle dure par endroits ou",
+        "en totalité et douloureuse",
+        "VULVE",
+        "Humidité, couleur",
+        "Rose, brillante, nette",
+        "Pâle, blanche, jaune ou rouge foncé, sèche,",
+        "blessée, écoulements jaunes ou rouge",
+        "foncé et malodorants",
+        "TEMPÉRATURE",
+        "Utilisation du thermomètre, réaction à la",
+        "lumière",
+        "Valeurs normales pour l’espèce,",
+        "systématique)",
+        "En dessous et au-dessus des valeurs",
+        "parfois la lumière",
+        "M.U.P.S.A",
+        "Anaplasmose",
+        "Échinococcose hydatique",
+        "Fasciolose",
+        "Vers intestinaux",
+        "DOULEURS ARTICULAIRES",
+        "DIMINUTION DE LA CROISSANCE",
+        "APPÉTIT CONSERVÉ",
+        "MUQUEUSES PÂLES",
+        "INAPPÉTENCE",
+        "GORGE ENFLÉE",
+        "SIGNE DE LA BOUTEILLE"
+      ],
+      "notes": [
+        "Santé animale de base",
+        "Animal réagit au déplacement de la main,",
+        "l’animal ne craint pas la lumière (non",
+        "normales pour l’espèce, l’animal craint",
+        "Mallette Pédagogique Santé Animale",
+        "FIÈVRE",
+        "DIARRHÉE"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    },
+    {
+      "id": "fr-dabattement",
+      "lang": "fr",
+      "symptom_title": "d’abattement.",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 66
+        }
+      ],
+      "likely_diseases": [
+        "M.U.P.S.A",
+        "Système nerveux:",
+        "Coordination des mouvements;",
+        "Vision;",
+        "Mise en évidence d’agressivité ou",
+        "Peau:",
+        "Perte de poils;",
+        "Couleur de la peau;",
+        "Présence de blessures;",
+        "Présence d’ectoparasites;",
+        "Irritations, gonflements.",
+        "Mamelle:",
+        "Taille et équilibre des quartiers;",
+        "Présence de zones dures;",
+        "État des trayons."
+      ],
+      "notes": [
+        "Mallette Pédagogique Santé Animale"
+      ],
+      "image_refs": [
+        "mupsa-francais_p0066_img_01"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0066_img_01.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0066_img_01_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0066_img_01",
+          "file": "output/images/mupsa-francais_p0066_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0066_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 66,
+          "width": 496,
+          "height": 295,
+          "bbox": null
+        }
+      ],
+      "image_count": 1
+    },
+    {
+      "id": "fr-davortements-et-de-metrites",
+      "lang": "fr",
+      "symptom_title": "d’avortements et de métrites;",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 141
+        }
+      ],
+      "likely_diseases": [
+        "Mesures à prendre et recommandations",
+        "Pour l’auxiliaire d’élevage:",
+        "Examiner avec l’éleveur l’ensemble des animaux à la recherche",
+        "Rappeler aux éleveurs les règles de nettoyage/désinfection et la",
+        "nécessité de bien faire bouillir le lait;",
+        "Isoler les femelles ayant avorté et celles qui sont en état de ges-",
+        "tation avancée;",
+        "Brûler les résidus d’avortements sur place ou les enterrer à 2m",
+        "de profondeur minimum avant des les détruire à la chaux vive.",
+        "Pour le technicien vétérinaire:",
+        "Confiner l’élevage concerné, vérifier la quarantaine, recenser",
+        "les avortements;",
+        "Contrôler les opérations de désinfection, d’abattage et de des-",
+        "truction des cadavres et des résidus d’avortements;",
+        "Vérifier la mise en œuvre des programmes de lutte antivecto-",
+        "rielle, de surveillance épidémiologique et de vaccination.",
+        "Pour le vétérinaire privé et/ou public:",
+        "Mettre en place une surveillance épidémiologique;",
+        "Mettre en place un programme de lutte antivectorielle;",
+        "Mettre en place une campagne d’abattage des animaux infectés",
+        "Mettre en place une campagne de vaccination en zone endé-",
+        "mique."
+      ],
+      "notes": [
+        "Maladies animales prioritaires",
+        "spécifiques en cas de fièvre Q"
+      ],
+      "image_refs": [
+        "mupsa-francais_p0141_img_01",
+        "mupsa-francais_p0141_img_02"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0141_img_01.webp",
+        "output/images/mupsa-francais_p0141_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0141_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0141_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0141_img_01",
+          "file": "output/images/mupsa-francais_p0141_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0141_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 141,
+          "width": 729,
+          "height": 469,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0141_img_02",
+          "file": "output/images/mupsa-francais_p0141_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0141_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 141,
+          "width": 418,
+          "height": 269,
+          "bbox": null
+        }
+      ],
+      "image_count": 2
+    },
+    {
+      "id": "fr-dun-nombre-eleve-davortements-et-dune-forte-mortalite-chez",
+      "lang": "fr",
+      "symptom_title": "d’un nombre élevé d’avortements et d’une forte mortalité chez",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 139
+        }
+      ],
+      "likely_diseases": [
+        "Mesures à prendre et recommandations",
+        "de la vallée du Rift",
+        "Pour l’auxiliaire d’élevage:",
+        "Examiner avec l’éleveur l’ensemble des animaux à la recherche",
+        "les jeunes;",
+        "Détruire les gîtes à moustiques, recommander l’installation de",
+        "moustiquaires.",
+        "Pour le technicien vétérinaire:",
+        "Confiner l’élevage concerné, vérifier la quarantaine, recenser",
+        "les avortements;",
+        "Contrôler les opérations de désinfection, d’abattage et de des-",
+        "truction des cadavres et des avortons;",
+        "Vérifier la mise en œuvre des programmes de lutte antivecto-",
+        "rielle, de surveillance épidémiologique et de vaccination.",
+        "Pour le vétérinaire privé et/ou public:",
+        "Mettre en place une surveillance épidémiologique;",
+        "Mettre en place un programme de lutte antivectorielle (dépara-",
+        "sitages externes, destruction des gîtes à moustiques...);",
+        "En cas d’épizootie: délimiter la zone infectée et interdire tout",
+        "mouvement. Mettre en place un programme de vaccination au-",
+        "tour de la zone;",
+        "Hors épizootie: mettre en place un programme de vaccination",
+        "dans et autour de la zone infectée en limitant les déplacements."
+      ],
+      "notes": [
+        "Maladies animales prioritaires",
+        "spécifiques en cas de fièvre"
+      ],
+      "image_refs": [
+        "mupsa-francais_p0139_img_01",
+        "mupsa-francais_p0139_img_02"
+      ],
+      "image_files": [
+        "output/images/mupsa-francais_p0139_img_01.webp",
+        "output/images/mupsa-francais_p0139_img_02.webp"
+      ],
+      "thumb_files": [
+        "output/thumbs/mupsa-francais_p0139_img_01_thumb.webp",
+        "output/thumbs/mupsa-francais_p0139_img_02_thumb.webp"
+      ],
+      "images": [
+        {
+          "image_id": "mupsa-francais_p0139_img_01",
+          "file": "output/images/mupsa-francais_p0139_img_01.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0139_img_01_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 139,
+          "width": 266,
+          "height": 269,
+          "bbox": null
+        },
+        {
+          "image_id": "mupsa-francais_p0139_img_02",
+          "file": "output/images/mupsa-francais_p0139_img_02.webp",
+          "thumb": "output/thumbs/mupsa-francais_p0139_img_02_thumb.webp",
+          "pdf_name": "MUPSA_francais.pdf",
+          "page_number": 139,
+          "width": 244,
+          "height": 325,
+          "bbox": null
+        }
+      ],
+      "image_count": 2
+    },
+    {
+      "id": "fr-la-diarrhee-et-sont-maigres-une-forte-infestation-de-douves-du-foie-peut-tuer",
+      "lang": "fr",
+      "symptom_title": "la diarrhée et sont maigres. Une forte infestation de douves du foie peut tuer",
+      "source_pages": [
+        {
+          "pdf": "MUPSA_francais.pdf",
+          "page": 191
+        }
+      ],
+      "likely_diseases": [
+        "Principaux traitements",
+        "Antiparasitaires",
+        "Antiparasitaires - Vermifuges",
+        "Les vermifuges sont des médicaments, préventifs ou curatifs, utilisés pour",
+        "traiter les parasites du tube digestif ou du foie. Les parasites entraînent",
+        "un amaigrissement des animaux, une baisse de production de lait et des",
+        "troubles digestifs. Les jeunes animaux ont le ventre gonflé, le poil piqué, de",
+        "une vache adulte. Une forte infestation d’ascaris peut tuer des veaux ou des",
+        "chevreaux.",
+        "Un tableau décrivant quelques exemples de prescriptions",
+        "Antiparasitaires - Endectocides",
+        "Les endectocides sont des médicaments préventifs ou curatifs utilisés pour",
+        "lutter à la fois contre les parasites internes et externes. L’efficacité de ces",
+        "médicaments contre les tiques n’est pas négligeable, bien que cette proprié-",
+        "té ne fasse pas partie des indications fournies par les fabricants.",
+        "Antiparasitaires - Externes",
+        "Les antiparasitaires externes sont des médicaments préventifs ou cura-",
+        "tifs, utilisés pour lutter contre les insectes ou les acariens qui parasitent",
+        "les animaux. Les parasites dérangent les animaux, leur spolient souvent",
+        "du sang, peuvent être responsables du déclenchement de certaines mala-",
+        "dies comme la dermatophilose ou être les vecteurs de maladies comme les",
+        "trypanosomoses, la theilériose ou la babésiose.",
+        "Un tableau décrivant quelques exemples de prescriptions d’antiparasitaires",
+        "Antiparasitaires - Sanguins",
+        "Les antiparasitaires sanguins sont des médicaments curatifs, utilisés pour",
+        "lutter contre les parasites qui infectent le sang des animaux. Les antipara-",
+        "sitaires internes peuvent permettre de traiter certaines maladies comme la",
+        "cowdriose, les trypanosomoses, la theilériose ou la babésiose.",
+        "Les traitements et stratégies à mettre en œuvre contre les maladies",
+        "transmises par les tiques sont approfondis dans les annexes 1 et 2",
+        "(pages 207 et 217)"
+      ],
+      "notes": [
+        "de vermifuges en santé animale est disponible en page",
+        "d’endectocides en santé animale est disponible en page",
+        "externes en santé animale est disponible en page",
+        "sanguins en santé animale est disponible en page"
+      ],
+      "image_refs": [],
+      "image_files": [],
+      "thumb_files": [],
+      "images": [],
+      "image_count": 0
+    }
+  ],
+  "actions": [],
+  "indexes": {
+    "species": {},
+    "symptoms": {
+      "De type I : L’action est directe, la substance (médicament, plante, substance interne à": [
+        "photosensibilisation"
+      ],
+      "De type II : L’action est indirecte, la substance a des propriétés hépatotoxiques et conduit": [
+        "photosensibilisation"
+      ],
+      "Principe": [
+        "photosensibilisation"
+      ],
+      "Résulte de la présence dans la circulation sanguine périphérique (vaisseaux sanguins de": [
+        "photosensibilisation"
+      ],
+      "Résulte d’une anomalie génétique qui affecte la pigmentation (albinisme)": [
+        "photosensibilisation"
+      ],
+      "Traitement": [
+        "photosensibilisation"
+      ],
+      "la peau) de substances photodynamiques": [
+        "photosensibilisation"
+      ],
+      "l’organisme) est elle-même photosensibilisante": [
+        "photosensibilisation"
+      ],
+      "yy Amaigrissement": [
+        "photosensibilisation"
+      ],
+      "yy Fièvre": [
+        "photosensibilisation"
+      ],
+      "yy Ictère": [
+        "photosensibilisation"
+      ],
+      "yy La photosensibilisation acquise": [
+        "photosensibilisation"
+      ],
+      "yy La photosensibilisation innée": [
+        "photosensibilisation"
+      ],
+      "yy Lésions cutanées : Rougeur, brûlure, tuméfaction, dépilation, peau craquelée (343, 344)": [
+        "photosensibilisation"
+      ],
+      "yy Soins locaux des plaies": [
+        "photosensibilisation"
+      ],
+      "yy Soustraction au soleil": [
+        "photosensibilisation"
+      ],
+      "yy Soustraction à la plante ou au médicament responsable": [
+        "photosensibilisation"
+      ],
+      "à la libération, par le foie, de substances photosensibilisantes": [
+        "photosensibilisation"
+      ]
+    }
+  }
+}

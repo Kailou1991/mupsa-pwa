@@ -1,0 +1,429 @@
+{
+  "total_changes": 732,
+  "by_file": {
+    "public\\data\\pwa_content.fr.final.json": 420,
+    "public\\data\\pwa_content.ar.final.json": 312
+  },
+  "samples": [
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Maladie bactérienne infectieuse non contagieuse transmise par les tiques. Elle affecte bovins, ovins et caprins. Les signes comprennent fièvre élevée, anorexie, abattement, douleurs articulaires et baisse de la lactation. Maladie non zoonotique et à déclaration obligatoire; période d'incubation 25 à 50 jours.",
+      "after": "Maladie bactérienne infectieuse non contagieuse transmise par les tiques. Elle affecte bovins, ovins et caprins. Les signes comprennent fièvre élevée, anorexie, abattement, douleurs articulaires et baisse de la lactation. Maladie non zoonotique et à déclaration obligatoire; période d'incubation 25 à 50 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Inspecter tout le troupeau régulièrement pour fièvre, anorexie et douleurs articulaires.",
+      "after": "Inspecter tout le troupeau régulièrement pour fièvre, anorexie et douleurs articulaires"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Appliquer les acaricides selon le programme vétérinaire et traiter les gîtes à insectes.",
+      "after": "Appliquer les acaricides selon le programme vétérinaire et traiter les gîtes à insectes"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Prélever sang sur anticoagulant et sérum pour analyses.",
+      "after": "Prélever sang sur anticoagulant et sérum pour analyses"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Signaler les cas : maladie non zoonotique mais à déclaration obligatoire.",
+      "after": "Signaler les cas: maladie non zoonotique mais à déclaration obligatoire"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Surveiller les animaux exposés pendant 25 à 50 jours.",
+      "after": "Surveiller les animaux exposés pendant 25 à 50 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Transmission indirecte par vecteur : tiques",
+      "after": "Transmission indirecte par vecteur: tiques"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Genres de tiques impliqués : Rhipicephalus (Boophilus) et Amblyomma (ex. R. (Boophilus) microplus; Amblyomma variegatum)",
+      "after": "Genres de tiques impliqués: Rhipicephalus (Boophilus) et Amblyomma (ex. R. (Boophilus) microplus; Amblyomma variegatum)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Prévention : acaricide",
+      "after": "Prévention: acaricide"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Traitement curatif : imidocarbe",
+      "after": "Traitement curatif: imidocarbe"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "La babésiose est une maladie non contagieuse des bovins causée par les protozoaires Babesia bovis et Babesia bigemina. Ces parasites envahissent les érythrocytes et provoquent fièvre, anémie, hémoglobinurie, ictère et parfois troubles nerveux ou avortements. La transmission se fait par piqûres de tiques (genres Rhipicephalus et Ixodes). Maladie non zoonotique soumise à déclaration obligatoire; incubation 5–10 jours.",
+      "after": "La babésiose est une maladie non contagieuse des bovins causée par les protozoaires Babesia bovis et Babesia bigemina. Ces parasites envahissent les érythrocytes et provoquent fièvre, anémie, hémoglobinurie, ictère et parfois troubles nerveux ou avortements. La transmission se fait par piqûres de tiques (genres Rhipicephalus et Ixodes). Maladie non zoonotique soumise à déclaration obligatoire; incubation 5–10 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Surveiller le troupeau pour fièvre, anémie et urine foncée.",
+      "after": "Surveiller le troupeau pour fièvre, anémie et urine foncée"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Prélever sang sur anticoagulant et sérum pour diagnostic.",
+      "after": "Prélever sang sur anticoagulant et sérum pour diagnostic"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Appliquer et maintenir un programme acaricide régulier.",
+      "after": "Appliquer et maintenir un programme acaricide régulier"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Détruire les gîtes à tiques et débroussailler autour des parcelles.",
+      "after": "Détruire les gîtes à tiques et débroussailler autour des parcelles"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Utiliser l’imidocarbe selon prescription vétérinaire.",
+      "after": "Utiliser l'imidocarbe selon prescription vétérinaire"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Déclarer les cas aux autorités compétentes.",
+      "after": "Déclarer les cas aux autorités compétentes"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Tenir compte d’une incubation de 5 à 10 jours.",
+      "after": "Tenir compte d'une incubation de 5 à 10 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Prévention : acaricide",
+      "after": "Prévention: acaricide"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Traitement curatif : imidocarbe",
+      "after": "Traitement curatif: imidocarbe"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "La brucellose est une infection bactérienne hautement contagieuse du bétail. Elle provoque surtout des avortements et de l'infertilité. C'est une zoonose transmissible par contact direct et par le lait. La maladie est soumise à déclaration obligatoire.",
+      "after": "La brucellose est une infection bactérienne hautement contagieuse du bétail. Elle provoque surtout des avortements et de l'infertilité. C'est une zoonose transmissible par contact direct et par le lait. La maladie est soumise à déclaration obligatoire"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Directe : contact avec un animal malade (muqueuses, accouplements) et absorption de sécrétions ou de produits animaux contaminés (sécrétions génitales, lait, avortons)",
+      "after": "Directe: contact avec un animal malade (muqueuses, accouplements) et absorption de sécrétions ou de produits animaux contaminés (sécrétions génitales, lait, avortons)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Indirecte : transmission mécanique via litière, nourriture, vêtements, matériel",
+      "after": "Indirecte: transmission mécanique via litière, nourriture, vêtements, matériel"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "samples",
+      "before": "Liquides d’excrétions utérines",
+      "after": "Liquides d'excrétions utérines"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "samples",
+      "before": "Matériel d’avortement",
+      "after": "Matériel d'avortement"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Selon les cas, privilégier l’abattage aux antibiotiques (risque d’animaux excréteurs apparemment sains)",
+      "after": "Selon les cas, privilégier l'abattage aux antibiotiques (risque d'animaux excréteurs apparemment sains)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Élimination : animaux morts, placentas et avortons doivent être enterrés profondément et détruits à la chaux vive",
+      "after": "Élimination: animaux morts, placentas et avortons doivent être enterrés profondément et détruits à la chaux vive"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "notes",
+      "before": "Période d’incubation: De 1 à 30 jours",
+      "after": "Période d'incubation: De 1 à 30 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Maladie bactérienne grave due à Bacillus anthracis, zoonotique et à déclaration obligatoire. Elle cause souvent des morts subites avec émissions de sang et peut évoluer très rapidement, limitant les possibilités de traitement. La forme cutanée est la plus fréquente; les formes gastro-intestinale et pulmonaire sont plus rares et plus mortelles. Les spores persistent longtemps dans le milieu extérieur.",
+      "after": "Maladie bactérienne grave due à Bacillus anthracis, zoonotique et à déclaration obligatoire. Elle cause souvent des morts subites avec émissions de sang et peut évoluer très rapidement, limitant les possibilités de traitement. La forme cutanée est la plus fréquente; les formes gastro-intestinale et pulmonaire sont plus rares et plus mortelles. Les spores persistent longtemps dans le milieu extérieur"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "clinical_signs",
+      "before": "Forme cutanée : macule au site d'inoculation qui s'ulcère (≈95 % des cas)",
+      "after": "Forme cutanée: macule au site d'inoculation qui s'ulcère (≈95 % des cas)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "clinical_signs",
+      "before": "Formes gastro-intestinale et pulmonaire : rares mais particulièrement mortelles",
+      "after": "Formes gastro-intestinale et pulmonaire: rares mais particulièrement mortelles"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Carcasses : enfouissement profond et destruction à la chaux vive",
+      "after": "Carcasses: enfouissement profond et destruction à la chaux vive"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Le charbon symptomatique est une maladie infectieuse aiguë du bétail due à Clostridium chauvoei. Elle évolue très rapidement et peut provoquer des morts subites et des muscles gonflés avec gaz. Ne pas confondre avec le charbon bactéridien : les spores sont très résistantes dans le milieu extérieur.",
+      "after": "Le charbon symptomatique est une maladie infectieuse aiguë du bétail due à Clostridium chauvoei. Elle évolue très rapidement et peut provoquer des morts subites et des muscles gonflés avec gaz. Ne pas confondre avec le charbon bactéridien: les spores sont très résistantes dans le milieu extérieur"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Ne pas pratiquer d’autopsie sur les animaux suspects",
+      "after": "Ne pas pratiquer d'autopsie sur les animaux suspects"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Enfouir ou brûler les carcasses ; enterrer à ≥2 m et appliquer chaux vive",
+      "after": "Enfouir ou brûler les carcasses; enterrer à ≥2 m et appliquer chaux vive"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Isoler l’élevage et maintenir la quarantaine",
+      "after": "Isoler l'élevage et maintenir la quarantaine"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "clinical_signs",
+      "before": "Baisse d’appétit",
+      "after": "Baisse d'appétit"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Indirecte : par voie mécanique (sols contaminés, litière, nourriture, vêtements, matériel)",
+      "after": "Indirecte: par voie mécanique (sols contaminés, litière, nourriture, vêtements, matériel)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "samples",
+      "before": "Animal vivant ou mort : prélèvement de muscle (au moins 10×10×10 cm)",
+      "after": "Animal vivant ou mort: prélèvement de muscle (au moins 10×10×10 cm)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "L’évolution clinique est souvent si rapide qu’il n’y a pas le temps de traiter les animaux infectés",
+      "after": "L'évolution clinique est souvent si rapide qu'il n'y a pas le temps de traiter les animaux infectés"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "notes",
+      "before": "Période d’incubation: De 2 à 5 jours",
+      "after": "Période d'incubation: De 2 à 5 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Maladie virale hautement contagieuse des ovins et caprins causée par un Capripoxvirus. Elle provoque des lésions cutanées (macules, papules, nodules qui forment des croûtes) sur la tête et les mamelles, fièvre, hypersalivation et ganglions hypertrophiés. Le virus est résistant dans l'environnement et la période d'incubation est de 5 à 15 jours. La maladie n'est pas zoonotique et est à déclaration obligatoire.",
+      "after": "Maladie virale hautement contagieuse des ovins et caprins causée par un Capripoxvirus. Elle provoque des lésions cutanées (macules, papules, nodules qui forment des croûtes) sur la tête et les mamelles, fièvre, hypersalivation et ganglions hypertrophiés. Le virus est résistant dans l'environnement et la période d'incubation est de 5 à 15 jours. La maladie n'est pas zoonotique et est à déclaration obligatoire"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "lesions",
+      "before": "Localisation : lèvres, langue, yeux, oreilles, mamelles, trayons",
+      "after": "Localisation: lèvres, langue, yeux, oreilles, mamelles, trayons"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Directe : contact avec un animal malade ou avec ses sécrétions/produits contaminés",
+      "after": "Directe: contact avec un animal malade ou avec ses sécrétions/produits contaminés"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Indirecte : transmission mécanique via litière, nourriture, vêtements ou matériel",
+      "after": "Indirecte: transmission mécanique via litière, nourriture, vêtements ou matériel"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Maladie bactérienne non contagieuse due à Ehrlichia ruminantium, transmise par des tiques du genre Amblyomma. Se manifeste par fièvre élevée, troubles respiratoires et signes nerveux, avortements et parfois mort subite. Période d'incubation : 10 à 20 jours. Maladie non zoonotique et à déclaration obligatoire.",
+      "after": "Maladie bactérienne non contagieuse due à Ehrlichia ruminantium, transmise par des tiques du genre Amblyomma. Se manifeste par fièvre élevée, troubles respiratoires et signes nerveux, avortements et parfois mort subite. Période d'incubation: 10 à 20 jours. Maladie non zoonotique et à déclaration obligatoire"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Rechercher activement signes cliniques : fièvre, dyspnée, troubles nerveux, avortements",
+      "after": "Rechercher activement signes cliniques: fièvre, dyspnée, troubles nerveux, avortements"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "field_advice",
+      "before": "Appliquer acaricides préventifs et détruire les gîtes à tiques ; débroussailler les zones infestées",
+      "after": "Appliquer acaricides préventifs et détruire les gîtes à tiques; débroussailler les zones infestées"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "clinical_signs",
+      "before": "Troubles nerveux : tournis, pédalage, convulsions, grincement des dents, attitude de pousser au mur, paralysie du train postérieur, opisthotonos",
+      "after": "Troubles nerveux: tournis, pédalage, convulsions, grincement des dents, attitude de pousser au mur, paralysie du train postérieur, opisthotonos"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Par l’intermédiaire d’un vecteur : tiques du genre Amblyomma (ex. Amblyomma variegatum)",
+      "after": "Par l'intermédiaire d'un vecteur: tiques du genre Amblyomma (ex. Amblyomma variegatum)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Traitement préventif : acaricide",
+      "after": "Traitement préventif: acaricide"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Traitement curatif : tétracycline",
+      "after": "Traitement curatif: tétracycline"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "notes",
+      "before": "Période d’incubation: 10 à 20 jours",
+      "after": "Période d'incubation: 10 à 20 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "summary",
+      "before": "Maladie bactérienne cutanée causée par Dermatophilus congolensis. Elle provoque des lésions croûteuses épaisses avec exsudat séreux, sans démangeaison, et des poils hérissés. Transmission par contact direct, vecteurs et contamination mécanique; période d'incubation 15–30 jours.",
+      "after": "Maladie bactérienne cutanée causée par Dermatophilus congolensis. Elle provoque des lésions croûteuses épaisses avec exsudat séreux, sans démangeaison, et des poils hérissés. Transmission par contact direct, vecteurs et contamination mécanique; période d'incubation 15–30 jours"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Contact direct : frottement avec un animal malade",
+      "after": "Contact direct: frottement avec un animal malade"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Vecteurs : mouches, tabanidés, tiques, acariens",
+      "after": "Vecteurs: mouches, tabanidés, tiques, acariens"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "transmission",
+      "before": "Contamination mécanique : sols, litière, nourriture, vêtements, matériel",
+      "after": "Contamination mécanique: sols, litière, nourriture, vêtements, matériel"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Préventif : acaricide",
+      "after": "Préventif: acaricide"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Curatif : antiseptique local (chlorhexidine)",
+      "after": "Curatif: antiseptique local (chlorhexidine)"
+    },
+    {
+      "file": "public\\data\\pwa_content.fr.final.json",
+      "section": "diseases",
+      "field": "treatment",
+      "before": "Curatif : antibiotique (tétracycline)",
+      "after": "Curatif: antibiotique (tétracycline)"
+    }
+  ]
+}
