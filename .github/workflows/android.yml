@@ -21,8 +21,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build web app
+      - name: Install Capacitor CLI
+        run: npm install @capacitor/cli
+
+      - name: Build web
         run: npm run build
+
+      - name: Sync Capacitor
+        run: npx cap sync android
 
       - name: Setup Java
         uses: actions/setup-java@v4
@@ -32,9 +38,6 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
-
-      - name: Sync Capacitor
-        run: npx cap sync android
 
       - name: Build APK
         run: |
