@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -20,12 +19,10 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: |
-          npm install
+        run: npm install
 
       - name: Build web app
-        run: |
-          npm run build || echo "No web build step"
+        run: npm run build
 
       - name: Setup Java
         uses: actions/setup-java@v4
@@ -35,6 +32,9 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
+
+      - name: Sync Capacitor
+        run: npx cap sync android
 
       - name: Build APK
         run: |
